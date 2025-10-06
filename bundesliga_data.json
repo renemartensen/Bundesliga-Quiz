@@ -1,0 +1,6374 @@
+{
+  "seasons": [
+    {
+      "season": 2005,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München(M, P)",
+          "Sp.": "34",
+          "S": "22",
+          "U": "9",
+          "N": "3",
+          "Tore": "067:320",
+          "Diff.": "+35",
+          "Punkte": "75"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "21",
+          "U": "7",
+          "N": "6",
+          "Tore": "079:370",
+          "Diff.": "+42",
+          "Punkte": "70"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "Hamburger SV",
+          "Sp.": "34",
+          "S": "21",
+          "U": "5",
+          "N": "8",
+          "Tore": "053:300",
+          "Diff.": "+23",
+          "Punkte": "68"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "16",
+          "U": "13",
+          "N": "5",
+          "Tore": "047:310",
+          "Diff.": "+16",
+          "Punkte": "61"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "14",
+          "U": "10",
+          "N": "10",
+          "Tore": "064:490",
+          "Diff.": "+15",
+          "Punkte": "52"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "12",
+          "U": "12",
+          "N": "10",
+          "Tore": "052:480",
+          "Diff.": "+4",
+          "Punkte": "48"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "11",
+          "U": "13",
+          "N": "10",
+          "Tore": "045:420",
+          "Diff.": "+3",
+          "Punkte": "46"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "1. FC Nürnberg",
+          "Sp.": "34",
+          "S": "12",
+          "U": "8",
+          "N": "14",
+          "Tore": "049:510",
+          "Diff.": "−2",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "9",
+          "U": "16",
+          "N": "9",
+          "Tore": "037:390",
+          "Diff.": "−2",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "10",
+          "U": "12",
+          "N": "12",
+          "Tore": "042:500",
+          "Diff.": "−8",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "9",
+          "U": "11",
+          "N": "14",
+          "Tore": "046:470",
+          "Diff.": "−1",
+          "Punkte": "38"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "7",
+          "U": "17",
+          "N": "10",
+          "Tore": "043:470",
+          "Diff.": "−4",
+          "Punkte": "38"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "Arminia Bielefeld",
+          "Sp.": "34",
+          "S": "10",
+          "U": "7",
+          "N": "17",
+          "Tore": "032:470",
+          "Diff.": "−15",
+          "Punkte": "37"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "Eintracht Frankfurt(N)",
+          "Sp.": "34",
+          "S": "9",
+          "U": "9",
+          "N": "16",
+          "Tore": "042:510",
+          "Diff.": "−9",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "7",
+          "U": "13",
+          "N": "14",
+          "Tore": "033:550",
+          "Diff.": "−22",
+          "Punkte": "34"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "1. FC Kaiserslautern",
+          "Sp.": "34",
+          "S": "8",
+          "U": "9",
+          "N": "17",
+          "Tore": "047:710",
+          "Diff.": "−24",
+          "Punkte": "33"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "1. FC Köln(N)",
+          "Sp.": "34",
+          "S": "7",
+          "U": "9",
+          "N": "18",
+          "Tore": "049:710",
+          "Diff.": "−22",
+          "Punkte": "30"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "MSV Duisburg(N)",
+          "Sp.": "34",
+          "S": "5",
+          "U": "12",
+          "N": "17",
+          "Tore": "034:630",
+          "Diff.": "−29",
+          "Punkte": "27"
+        }
+      ],
+      "topscorers": [
+        {
+          "": "1.",
+          "Spieler": "Miroslav Klose",
+          "Verein": "Werder Bremen",
+          "Tore": "25"
+        },
+        {
+          "": "2.",
+          "Spieler": "Dimitar Berbatow",
+          "Verein": "Bayer 04 Leverkusen",
+          "Tore": "21"
+        },
+        {
+          "": "3.",
+          "Spieler": "Halil Altıntop",
+          "Verein": "1. FC Kaiserslautern",
+          "Tore": "20"
+        },
+        {
+          "": "4.",
+          "Spieler": "Roy Makaay",
+          "Verein": "FC Bayern München",
+          "Tore": "17"
+        },
+        {
+          "": "5.",
+          "Spieler": "Róbert Vittek",
+          "Verein": "1. FC Nürnberg",
+          "Tore": "16"
+        },
+        {
+          "": "6.",
+          "Spieler": "Ivan Klasnić",
+          "Verein": "Werder Bremen",
+          "Tore": "15"
+        },
+        {
+          "": "7.",
+          "Spieler": "Michael Ballack",
+          "Verein": "FC Bayern München",
+          "Tore": "14"
+        },
+        {
+          "": "8.",
+          "Spieler": "Euzebiusz Smolarek",
+          "Verein": "Borussia Dortmund",
+          "Tore": "13"
+        },
+        {
+          "": "9.",
+          "Spieler": "Ioannis Amanatidis",
+          "Verein": "Eintracht Frankfurt",
+          "Tore": "12"
+        },
+        {
+          "": "Diego Fernando Klimowicz",
+          "Spieler": "VfL Wolfsburg"
+        },
+        {
+          "": "Marcelinho",
+          "Spieler": "Hertha BSC"
+        },
+        {
+          "": "Lukas Podolski",
+          "Spieler": "1. FC Köln"
+        },
+        {
+          "": "Michael Thurk",
+          "Spieler": "1. FSV Mainz 05"
+        }
+      ]
+    },
+    {
+      "season": 2006,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "21",
+          "U": "7",
+          "N": "6",
+          "Tore": "061:370",
+          "Diff.": "+24",
+          "Punkte": "70"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "21",
+          "U": "5",
+          "N": "8",
+          "Tore": "053:320",
+          "Diff.": "+21",
+          "Punkte": "68"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "20",
+          "U": "6",
+          "N": "8",
+          "Tore": "076:400",
+          "Diff.": "+36",
+          "Punkte": "66"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "FC Bayern München(M, P)",
+          "Sp.": "34",
+          "S": "18",
+          "U": "6",
+          "N": "10",
+          "Tore": "055:400",
+          "Diff.": "+15",
+          "Punkte": "60"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "15",
+          "U": "6",
+          "N": "13",
+          "Tore": "054:490",
+          "Diff.": "+5",
+          "Punkte": "51"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "1. FC Nürnberg",
+          "Sp.": "34",
+          "S": "11",
+          "U": "15",
+          "N": "8",
+          "Tore": "043:320",
+          "Diff.": "+11",
+          "Punkte": "48"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "Hamburger SV",
+          "Sp.": "34",
+          "S": "10",
+          "U": "15",
+          "N": "9",
+          "Tore": "043:370",
+          "Diff.": "+6",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "VfL Bochum(N)",
+          "Sp.": "34",
+          "S": "13",
+          "U": "6",
+          "N": "15",
+          "Tore": "049:500",
+          "Diff.": "−1",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "12",
+          "U": "8",
+          "N": "14",
+          "Tore": "041:430",
+          "Diff.": "−2",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "12",
+          "U": "8",
+          "N": "14",
+          "Tore": "050:550",
+          "Diff.": "−5",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "12",
+          "U": "8",
+          "N": "14",
+          "Tore": "041:500",
+          "Diff.": "−9",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "Arminia Bielefeld",
+          "Sp.": "34",
+          "S": "11",
+          "U": "9",
+          "N": "14",
+          "Tore": "047:490",
+          "Diff.": "−2",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "Energie Cottbus(N)",
+          "Sp.": "34",
+          "S": "11",
+          "U": "8",
+          "N": "15",
+          "Tore": "038:490",
+          "Diff.": "−11",
+          "Punkte": "41"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "9",
+          "U": "13",
+          "N": "12",
+          "Tore": "046:580",
+          "Diff.": "−12",
+          "Punkte": "40"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "8",
+          "U": "13",
+          "N": "13",
+          "Tore": "037:450",
+          "Diff.": "−8",
+          "Punkte": "37"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "8",
+          "U": "10",
+          "N": "16",
+          "Tore": "034:570",
+          "Diff.": "−23",
+          "Punkte": "34"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "Alemannia Aachen(N)",
+          "Sp.": "34",
+          "S": "9",
+          "U": "7",
+          "N": "18",
+          "Tore": "046:700",
+          "Diff.": "−24",
+          "Punkte": "34"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "6",
+          "U": "8",
+          "N": "20",
+          "Tore": "023:440",
+          "Diff.": "−21",
+          "Punkte": "26"
+        }
+      ],
+      "topscorers": [
+        {
+          "": "1",
+          "Nat.": "",
+          "Spieler": "Theofanis Gekas",
+          "Verein": "VfL Bochum",
+          "Tore": "20"
+        },
+        {
+          "": "2",
+          "Nat.": "",
+          "Spieler": "Alexander Frei",
+          "Verein": "Borussia Dortmund",
+          "Tore": "16"
+        },
+        {
+          "": "",
+          "Nat.": "Roy Makaay",
+          "Spieler": "FC Bayern München"
+        },
+        {
+          "": "4",
+          "Nat.": "",
+          "Spieler": "Kevin Kurányi",
+          "Verein": "FC Schalke 04",
+          "Tore": "15"
+        },
+        {
+          "": "5",
+          "Nat.": "",
+          "Spieler": "Mario Gómez",
+          "Verein": "VfB Stuttgart",
+          "Tore": "14"
+        },
+        {
+          "": "",
+          "Nat.": "Marko Pantelić",
+          "Spieler": "Hertha BSC"
+        },
+        {
+          "": "",
+          "Nat.": "Sergiu Radu",
+          "Spieler": "Energie Cottbus"
+        },
+        {
+          "": "",
+          "Nat.": "Mohamed Zidan",
+          "Spieler": "FSV Mainz 05"
+        },
+        {
+          "": "9",
+          "Nat.": "",
+          "Spieler": "Cacau",
+          "Verein": "VfB Stuttgart",
+          "Tore": "13"
+        },
+        {
+          "": "",
+          "Nat.": "Diego",
+          "Spieler": "Werder Bremen"
+        },
+        {
+          "": "",
+          "Nat.": "Miroslav Klose",
+          "Spieler": "Werder Bremen"
+        }
+      ]
+    },
+    {
+      "season": 2007,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München",
+          "Sp.": "34",
+          "S": "22",
+          "U": "10",
+          "N": "2",
+          "Tore": "068:210",
+          "Diff.": "+47",
+          "Punkte": "76"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "20",
+          "U": "6",
+          "N": "8",
+          "Tore": "075:450",
+          "Diff.": "+30",
+          "Punkte": "66"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "18",
+          "U": "10",
+          "N": "6",
+          "Tore": "055:320",
+          "Diff.": "+23",
+          "Punkte": "64"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "Hamburger SV",
+          "Sp.": "34",
+          "S": "14",
+          "U": "12",
+          "N": "8",
+          "Tore": "047:260",
+          "Diff.": "+21",
+          "Punkte": "54"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "15",
+          "U": "9",
+          "N": "10",
+          "Tore": "058:460",
+          "Diff.": "+12",
+          "Punkte": "54"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "VfB Stuttgart(M)",
+          "Sp.": "34",
+          "S": "16",
+          "U": "4",
+          "N": "14",
+          "Tore": "057:570",
+          "Diff.": "±0",
+          "Punkte": "52"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "15",
+          "U": "6",
+          "N": "13",
+          "Tore": "057:400",
+          "Diff.": "+17",
+          "Punkte": "51"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "13",
+          "U": "10",
+          "N": "11",
+          "Tore": "054:560",
+          "Diff.": "−2",
+          "Punkte": "49"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "12",
+          "U": "10",
+          "N": "12",
+          "Tore": "043:500",
+          "Diff.": "−7",
+          "Punkte": "46"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "12",
+          "U": "8",
+          "N": "14",
+          "Tore": "039:440",
+          "Diff.": "−5",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "Karlsruher SC(N)",
+          "Sp.": "34",
+          "S": "11",
+          "U": "10",
+          "N": "13",
+          "Tore": "038:530",
+          "Diff.": "−15",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "VfL Bochum",
+          "Sp.": "34",
+          "S": "10",
+          "U": "11",
+          "N": "13",
+          "Tore": "048:540",
+          "Diff.": "−6",
+          "Punkte": "41"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "10",
+          "U": "10",
+          "N": "14",
+          "Tore": "050:620",
+          "Diff.": "−12",
+          "Punkte": "40"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "Energie Cottbus",
+          "Sp.": "34",
+          "S": "9",
+          "U": "9",
+          "N": "16",
+          "Tore": "035:560",
+          "Diff.": "−21",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "Arminia Bielefeld",
+          "Sp.": "34",
+          "S": "8",
+          "U": "10",
+          "N": "16",
+          "Tore": "035:600",
+          "Diff.": "−25",
+          "Punkte": "34"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "1. FC Nürnberg(P)",
+          "Sp.": "34",
+          "S": "7",
+          "U": "10",
+          "N": "17",
+          "Tore": "035:510",
+          "Diff.": "−16",
+          "Punkte": "31"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "Hansa Rostock(N)",
+          "Sp.": "34",
+          "S": "8",
+          "U": "6",
+          "N": "20",
+          "Tore": "030:520",
+          "Diff.": "−22",
+          "Punkte": "30"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "MSV Duisburg(N)",
+          "Sp.": "34",
+          "S": "8",
+          "U": "5",
+          "N": "21",
+          "Tore": "036:550",
+          "Diff.": "−19",
+          "Punkte": "29"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "01",
+          "Nat.": "",
+          "Spieler": "Luca Toni",
+          "Verein": "Bayern München",
+          "Tore": "24"
+        },
+        {
+          "Pl.": "02",
+          "Nat.": "",
+          "Spieler": "Mario Gómez",
+          "Verein": "VfB Stuttgart",
+          "Tore": "19"
+        },
+        {
+          "Pl.": "03",
+          "Nat.": "",
+          "Spieler": "Kevin Kurányi",
+          "Verein": "Schalke 04",
+          "Tore": "15"
+        },
+        {
+          "Pl.": "04",
+          "Nat.": "",
+          "Spieler": "Ivica Olić",
+          "Verein": "Hamburger SV",
+          "Tore": "14"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Markus Rosenberg",
+          "Spieler": "Werder Bremen"
+        },
+        {
+          "Pl.": "06",
+          "Nat.": "",
+          "Spieler": "Diego",
+          "Verein": "Werder Bremen",
+          "Tore": "13"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Marko Pantelić",
+          "Spieler": "Hertha BSC"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Mladen Petrić",
+          "Spieler": "Borussia Dortmund"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Stanislav Šesták",
+          "Spieler": "VfL Bochum"
+        },
+        {
+          "Pl.": "10",
+          "Nat.": "",
+          "Spieler": "Rafael van der Vaart",
+          "Verein": "Hamburger SV",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "1",
+          "Nat.": "",
+          "Spieler": "Luca Toni",
+          "Verein": "Bayern München",
+          "Gesamt": "31",
+          "Tore": "24",
+          "Vorlagen": "7"
+        },
+        {
+          "Pl.": "2",
+          "Nat.": "",
+          "Spieler": "Diego",
+          "Verein": "Werder Bremen",
+          "Gesamt": "24",
+          "Tore": "13",
+          "Vorlagen": "11"
+        },
+        {
+          "Pl.": "3",
+          "Nat.": "",
+          "Spieler": "Markus Rosenberg",
+          "Verein": "Werder Bremen",
+          "Gesamt": "23",
+          "Tore": "14",
+          "Vorlagen": "9"
+        },
+        {
+          "Pl.": "4",
+          "Nat.": "",
+          "Spieler": "Mario Gómez",
+          "Verein": "VfB Stuttgart",
+          "Gesamt": "22",
+          "Tore": "19",
+          "Vorlagen": "3"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Stanislav Šesták",
+          "Spieler": "VfL Bochum",
+          "Verein": "13",
+          "Gesamt": "9"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Rafael van der Vaart",
+          "Spieler": "Hamburger SV",
+          "Verein": "12",
+          "Gesamt": "10"
+        },
+        {
+          "Pl.": "7",
+          "Nat.": "",
+          "Spieler": "Ivica Olić",
+          "Verein": "Hamburger SV",
+          "Gesamt": "19",
+          "Tore": "14",
+          "Vorlagen": "5"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Franck Ribéry",
+          "Spieler": "Bayern München",
+          "Verein": "11",
+          "Gesamt": "8"
+        },
+        {
+          "Pl.": "9",
+          "Nat.": "",
+          "Spieler": "Ioannis Amanatidis",
+          "Verein": "Eintracht Frankfurt",
+          "Gesamt": "18",
+          "Tore": "11",
+          "Vorlagen": "7"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Miroslav Klose",
+          "Spieler": "Bayern München",
+          "Verein": "10",
+          "Gesamt": "8"
+        }
+      ]
+    },
+    {
+      "season": 2008,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "21",
+          "U": "6",
+          "N": "7",
+          "Tore": "080:410",
+          "Diff.": "+39",
+          "Punkte": "69"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "FC Bayern München(M, P)",
+          "Sp.": "34",
+          "S": "20",
+          "U": "7",
+          "N": "7",
+          "Tore": "071:420",
+          "Diff.": "+29",
+          "Punkte": "67"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "19",
+          "U": "7",
+          "N": "8",
+          "Tore": "063:430",
+          "Diff.": "+20",
+          "Punkte": "64"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "19",
+          "U": "6",
+          "N": "9",
+          "Tore": "048:410",
+          "Diff.": "+7",
+          "Punkte": "63"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "Hamburger SV",
+          "Sp.": "34",
+          "S": "19",
+          "U": "4",
+          "N": "11",
+          "Tore": "049:470",
+          "Diff.": "+2",
+          "Punkte": "61"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "15",
+          "U": "14",
+          "N": "5",
+          "Tore": "060:370",
+          "Diff.": "+23",
+          "Punkte": "59"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "TSG 1899 Hoffenheim(N)",
+          "Sp.": "34",
+          "S": "15",
+          "U": "10",
+          "N": "9",
+          "Tore": "063:490",
+          "Diff.": "+14",
+          "Punkte": "55"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "14",
+          "U": "8",
+          "N": "12",
+          "Tore": "047:350",
+          "Diff.": "+12",
+          "Punkte": "50"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "14",
+          "U": "7",
+          "N": "13",
+          "Tore": "059:460",
+          "Diff.": "+13",
+          "Punkte": "49"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "12",
+          "U": "9",
+          "N": "13",
+          "Tore": "064:500",
+          "Diff.": "+14",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "10",
+          "U": "10",
+          "N": "14",
+          "Tore": "049:690",
+          "Diff.": "−20",
+          "Punkte": "40"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "1. FC Köln(N)",
+          "Sp.": "34",
+          "S": "11",
+          "U": "6",
+          "N": "17",
+          "Tore": "035:500",
+          "Diff.": "−15",
+          "Punkte": "39"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "8",
+          "U": "9",
+          "N": "17",
+          "Tore": "039:600",
+          "Diff.": "−21",
+          "Punkte": "33"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "VfL Bochum",
+          "Sp.": "34",
+          "S": "7",
+          "U": "11",
+          "N": "16",
+          "Tore": "039:550",
+          "Diff.": "−16",
+          "Punkte": "32"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "Borussia Mönchengladbach(N)",
+          "Sp.": "34",
+          "S": "8",
+          "U": "7",
+          "N": "19",
+          "Tore": "039:620",
+          "Diff.": "−23",
+          "Punkte": "31"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "Energie Cottbus",
+          "Sp.": "34",
+          "S": "8",
+          "U": "6",
+          "N": "20",
+          "Tore": "030:570",
+          "Diff.": "−27",
+          "Punkte": "30"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "Karlsruher SC",
+          "Sp.": "34",
+          "S": "8",
+          "U": "5",
+          "N": "21",
+          "Tore": "030:540",
+          "Diff.": "−24",
+          "Punkte": "29"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "Arminia Bielefeld",
+          "Sp.": "34",
+          "S": "4",
+          "U": "16",
+          "N": "14",
+          "Tore": "029:560",
+          "Diff.": "−27",
+          "Punkte": "28"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "",
+          "Nat.": "Grafite",
+          "Spieler[2]": "VfL Wolfsburg",
+          "Verein": "28"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Edin Džeko",
+          "Spieler[2]": "VfL Wolfsburg",
+          "Verein": "26"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Mario Gómez",
+          "Spieler[2]": "VfB Stuttgart",
+          "Verein": "24"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Patrick Helmes",
+          "Spieler[2]": "Bayer 04 Leverkusen",
+          "Verein": "21"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Vedad Ibišević",
+          "Spieler[2]": "TSG 1899 Hoffenheim",
+          "Verein": "18"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Claudio Pizarro",
+          "Spieler[2]": "Werder Bremen",
+          "Verein": "17"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Milivoje Novakovič",
+          "Spieler[2]": "1. FC Köln",
+          "Verein": "16"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Demba Ba",
+          "Spieler[2]": "TSG 1899 Hoffenheim",
+          "Verein": "14"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Luca Toni",
+          "Spieler[2]": "FC Bayern München"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Kevin Kurányi",
+          "Spieler[2]": "FC Schalke 04",
+          "Verein": "13"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Artur Wichniarek",
+          "Spieler[2]": "Arminia Bielefeld"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Grafite",
+          "Spieler[3]": "VfL Wolfsburg",
+          "Verein": "39",
+          "Gesamt": "28",
+          "Tore": "11"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Edin Džeko",
+          "Spieler[3]": "VfL Wolfsburg",
+          "Verein": "36",
+          "Gesamt": "26",
+          "Tore": "10"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Mario Gómez",
+          "Spieler[3]": "VfB Stuttgart",
+          "Verein": "32",
+          "Gesamt": "24",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Zvjezdan Misimović",
+          "Spieler[3]": "VfL Wolfsburg",
+          "Verein": "27",
+          "Gesamt": "07",
+          "Tore": "20"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Patrick Helmes",
+          "Spieler[3]": "Bayer 04 Leverkusen",
+          "Verein": "26",
+          "Gesamt": "21",
+          "Tore": "05"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Vedad Ibišević",
+          "Spieler[3]": "1899 Hoffenheim",
+          "Verein": "25",
+          "Gesamt": "18",
+          "Tore": "07"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Demba Ba",
+          "Spieler[3]": "1899 Hoffenheim",
+          "Verein": "21",
+          "Gesamt": "14",
+          "Tore": "07"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Stefan Kießling",
+          "Spieler[3]": "Bayer 04 Leverkusen",
+          "Verein": "12",
+          "Gesamt": "09"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Franck Ribéry",
+          "Spieler[3]": "Bayern München",
+          "Verein": "09",
+          "Gesamt": "12"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Luca Toni",
+          "Spieler[3]": "Bayern München",
+          "Verein": "20",
+          "Gesamt": "14",
+          "Tore": "06"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Alexander Frei",
+          "Spieler[3]": "Borussia Dortmund",
+          "Verein": "12",
+          "Gesamt": "08"
+        }
+      ]
+    },
+    {
+      "season": 2009,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München",
+          "Sp.": "34",
+          "S": "20",
+          "U": "10",
+          "N": "4",
+          "Tore": "072:310",
+          "Diff.": "+41",
+          "Punkte": "70"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "19",
+          "U": "8",
+          "N": "7",
+          "Tore": "053:310",
+          "Diff.": "+22",
+          "Punkte": "65"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "Werder Bremen(P)",
+          "Sp.": "34",
+          "S": "17",
+          "U": "10",
+          "N": "7",
+          "Tore": "071:400",
+          "Diff.": "+31",
+          "Punkte": "61"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "15",
+          "U": "14",
+          "N": "5",
+          "Tore": "065:380",
+          "Diff.": "+27",
+          "Punkte": "59"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "16",
+          "U": "9",
+          "N": "9",
+          "Tore": "054:420",
+          "Diff.": "+12",
+          "Punkte": "57"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "15",
+          "U": "10",
+          "N": "9",
+          "Tore": "051:410",
+          "Diff.": "+10",
+          "Punkte": "55"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "Hamburger SV",
+          "Sp.": "34",
+          "S": "13",
+          "U": "13",
+          "N": "8",
+          "Tore": "056:410",
+          "Diff.": "+15",
+          "Punkte": "52"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "VfL Wolfsburg(M)",
+          "Sp.": "34",
+          "S": "14",
+          "U": "8",
+          "N": "12",
+          "Tore": "064:580",
+          "Diff.": "+6",
+          "Punkte": "50"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "1. FSV Mainz 05(N)",
+          "Sp.": "34",
+          "S": "12",
+          "U": "11",
+          "N": "11",
+          "Tore": "036:420",
+          "Diff.": "−6",
+          "Punkte": "47"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "12",
+          "U": "10",
+          "N": "12",
+          "Tore": "047:540",
+          "Diff.": "−7",
+          "Punkte": "46"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "11",
+          "U": "9",
+          "N": "14",
+          "Tore": "044:420",
+          "Diff.": "+2",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "10",
+          "U": "9",
+          "N": "15",
+          "Tore": "043:600",
+          "Diff.": "−17",
+          "Punkte": "39"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "1. FC Köln",
+          "Sp.": "34",
+          "S": "9",
+          "U": "11",
+          "N": "14",
+          "Tore": "033:420",
+          "Diff.": "−9",
+          "Punkte": "38"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "SC Freiburg(N)",
+          "Sp.": "34",
+          "S": "9",
+          "U": "8",
+          "N": "17",
+          "Tore": "035:590",
+          "Diff.": "−24",
+          "Punkte": "35"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "9",
+          "U": "6",
+          "N": "19",
+          "Tore": "043:670",
+          "Diff.": "−24",
+          "Punkte": "33"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "1. FC Nürnberg(N)",
+          "Sp.": "34",
+          "S": "8",
+          "U": "7",
+          "N": "19",
+          "Tore": "032:580",
+          "Diff.": "−26",
+          "Punkte": "31"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "VfL Bochum",
+          "Sp.": "34",
+          "S": "6",
+          "U": "10",
+          "N": "18",
+          "Tore": "033:640",
+          "Diff.": "−31",
+          "Punkte": "28"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "5",
+          "U": "9",
+          "N": "20",
+          "Tore": "034:560",
+          "Diff.": "−22",
+          "Punkte": "24"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "1",
+          "Nat.": "",
+          "Spieler[1]": "Edin Džeko",
+          "Verein": "VfL Wolfsburg",
+          "Tore": "22"
+        },
+        {
+          "Pl.": "2",
+          "Nat.": "",
+          "Spieler[1]": "Stefan Kießling",
+          "Verein": "Bayer 04 Leverkusen",
+          "Tore": "21"
+        },
+        {
+          "Pl.": "3",
+          "Nat.": "",
+          "Spieler[1]": "Lucas Barrios",
+          "Verein": "Borussia Dortmund",
+          "Tore": "19"
+        },
+        {
+          "Pl.": "4",
+          "Nat.": "",
+          "Spieler[1]": "Kevin Kurányi",
+          "Verein": "FC Schalke 04",
+          "Tore": "18"
+        },
+        {
+          "Pl.": "5",
+          "Nat.": "",
+          "Spieler[1]": "Claudio Pizarro",
+          "Verein": "Werder Bremen",
+          "Tore": "16"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "",
+          "Spieler[1]": "Arjen Robben",
+          "Verein": "FC Bayern München",
+          "Tore": "16"
+        },
+        {
+          "Pl.": "7",
+          "Nat.": "",
+          "Spieler[1]": "Cacau",
+          "Verein": "VfB Stuttgart",
+          "Tore": "13"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "",
+          "Spieler[1]": "Thomas Müller",
+          "Verein": "FC Bayern München",
+          "Tore": "13"
+        },
+        {
+          "Pl.": "9",
+          "Nat.": "",
+          "Spieler[1]": "Albert Bunjaku",
+          "Verein": "1. FC Nürnberg",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "",
+          "Spieler[1]": "Eren Derdiyok",
+          "Verein": "Bayer 04 Leverkusen",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "",
+          "Spieler[1]": "Vedad Ibišević",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "01",
+          "Nat.": "",
+          "Spieler[2]": "Edin Džeko",
+          "Verein": "VfL Wolfsburg",
+          "Gesamt": "32",
+          "Tore": "22",
+          "Vorlagen": "10"
+        },
+        {
+          "Pl.": "02",
+          "Nat.": "",
+          "Spieler[2]": "Stefan Kießling",
+          "Verein": "Bayer 04 Leverkusen",
+          "Gesamt": "28",
+          "Tore": "21",
+          "Vorlagen": "07"
+        },
+        {
+          "Pl.": "03",
+          "Nat.": "",
+          "Spieler[2]": "Kevin Kurányi",
+          "Verein": "FC Schalke 04",
+          "Gesamt": "26",
+          "Tore": "18",
+          "Vorlagen": "08"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "",
+          "Spieler[2]": "Mesut Özil",
+          "Verein": "Werder Bremen",
+          "Gesamt": "26",
+          "Tore": "09",
+          "Vorlagen": "17"
+        },
+        {
+          "Pl.": "05",
+          "Nat.": "",
+          "Spieler[2]": "Zvjezdan Misimović",
+          "Verein": "VfL Wolfsburg",
+          "Gesamt": "25",
+          "Tore": "10",
+          "Vorlagen": "15"
+        },
+        {
+          "Pl.": "06",
+          "Nat.": "",
+          "Spieler[2]": "Lucas Barrios",
+          "Verein": "Borussia Dortmund",
+          "Gesamt": "24",
+          "Tore": "19",
+          "Vorlagen": "05"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "",
+          "Spieler[2]": "Thomas Müller",
+          "Verein": "FC Bayern München",
+          "Gesamt": "24",
+          "Tore": "13",
+          "Vorlagen": "11"
+        },
+        {
+          "Pl.": "08",
+          "Nat.": "",
+          "Spieler[2]": "Arjen Robben",
+          "Verein": "FC Bayern München",
+          "Gesamt": "23",
+          "Tore": "16",
+          "Vorlagen": "07"
+        },
+        {
+          "Pl.": "09",
+          "Nat.": "",
+          "Spieler[2]": "Toni Kroos",
+          "Verein": "Bayer 04 Leverkusen",
+          "Gesamt": "21",
+          "Tore": "09",
+          "Vorlagen": "12"
+        },
+        {
+          "Pl.": "10",
+          "Nat.": "",
+          "Spieler[2]": "Vedad Ibišević",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Gesamt": "19",
+          "Tore": "12",
+          "Vorlagen": "07"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "",
+          "Spieler[2]": "Claudio Pizarro",
+          "Verein": "Werder Bremen",
+          "Gesamt": "19",
+          "Tore": "16",
+          "Vorlagen": "03"
+        }
+      ]
+    },
+    {
+      "season": 2010,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "23",
+          "U": "6",
+          "N": "5",
+          "Tore": "067:220",
+          "Diff.": "+45",
+          "Punkte": "75"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "20",
+          "U": "8",
+          "N": "6",
+          "Tore": "064:440",
+          "Diff.": "+20",
+          "Punkte": "68"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "FC Bayern München(M, P)",
+          "Sp.": "34",
+          "S": "19",
+          "U": "8",
+          "N": "7",
+          "Tore": "081:400",
+          "Diff.": "+41",
+          "Punkte": "65"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "19",
+          "U": "3",
+          "N": "12",
+          "Tore": "049:450",
+          "Diff.": "+4",
+          "Punkte": "60"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "18",
+          "U": "4",
+          "N": "12",
+          "Tore": "052:390",
+          "Diff.": "+13",
+          "Punkte": "58"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "1. FC Nürnberg(R)",
+          "Sp.": "34",
+          "S": "13",
+          "U": "8",
+          "N": "13",
+          "Tore": "047:450",
+          "Diff.": "+2",
+          "Punkte": "47"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "1. FC Kaiserslautern(N)",
+          "Sp.": "34",
+          "S": "13",
+          "U": "7",
+          "N": "14",
+          "Tore": "048:510",
+          "Diff.": "−3",
+          "Punkte": "46"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "Hamburger SV",
+          "Sp.": "34",
+          "S": "12",
+          "U": "9",
+          "N": "13",
+          "Tore": "046:520",
+          "Diff.": "−6",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "13",
+          "U": "5",
+          "N": "16",
+          "Tore": "041:500",
+          "Diff.": "−9",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "1. FC Köln",
+          "Sp.": "34",
+          "S": "13",
+          "U": "5",
+          "N": "16",
+          "Tore": "047:620",
+          "Diff.": "−15",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "11",
+          "U": "10",
+          "N": "13",
+          "Tore": "050:500",
+          "Diff.": "±0",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "12",
+          "U": "6",
+          "N": "16",
+          "Tore": "060:590",
+          "Diff.": "+1",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "10",
+          "U": "11",
+          "N": "13",
+          "Tore": "047:610",
+          "Diff.": "−14",
+          "Punkte": "41"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "11",
+          "U": "7",
+          "N": "16",
+          "Tore": "038:440",
+          "Diff.": "−6",
+          "Punkte": "40"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "9",
+          "U": "11",
+          "N": "14",
+          "Tore": "043:480",
+          "Diff.": "−5",
+          "Punkte": "38"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "10",
+          "U": "6",
+          "N": "18",
+          "Tore": "048:650",
+          "Diff.": "−17",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "9",
+          "U": "7",
+          "N": "18",
+          "Tore": "031:490",
+          "Diff.": "−18",
+          "Punkte": "34"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "FC St. Pauli(N)",
+          "Sp.": "34",
+          "S": "8",
+          "U": "5",
+          "N": "21",
+          "Tore": "035:680",
+          "Diff.": "−33",
+          "Punkte": "29"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "",
+          "Nat.": "Mario Gómez",
+          "Spieler[4]": "FC Bayern München",
+          "Verein": "28"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Papiss Demba Cissé",
+          "Spieler[4]": "SC Freiburg",
+          "Verein": "22"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Milivoje Novakovič",
+          "Spieler[4]": "1. FC Köln",
+          "Verein": "17"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Lucas Barrios",
+          "Spieler[4]": "Borussia Dortmund",
+          "Verein": "16"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Theofanis Gekas",
+          "Spieler[4]": "Eintracht Frankfurt",
+          "Verein": "16"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Srđan Lakić",
+          "Spieler[4]": "1. FC Kaiserslautern",
+          "Verein": "16"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "André Schürrle",
+          "Spieler[4]": "1. FSV Mainz 05",
+          "Verein": "15"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Didier Ya Konan",
+          "Spieler[4]": "Hannover 96",
+          "Verein": "14"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Lukas Podolski",
+          "Spieler[4]": "1. FC Köln",
+          "Verein": "13"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Raúl",
+          "Spieler[4]": "FC Schalke 04",
+          "Verein": "13"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Mario Gómez",
+          "Spieler[5]": "FC Bayern München",
+          "Verein": "30",
+          "Gesamt": "28",
+          "Tore": "02"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Thomas Müller",
+          "Spieler[5]": "FC Bayern München",
+          "Verein": "23",
+          "Gesamt": "12",
+          "Tore": "11"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Papiss Demba Cissé",
+          "Spieler[5]": "SC Freiburg",
+          "Verein": "22",
+          "Gesamt": "22",
+          "Tore": "00"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Arturo Vidal",
+          "Spieler[5]": "Bayer 04 Leverkusen",
+          "Verein": "21",
+          "Gesamt": "10",
+          "Tore": "11"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Milivoje Novakovič",
+          "Spieler[5]": "1. FC Köln",
+          "Verein": "20",
+          "Gesamt": "17",
+          "Tore": "03"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Arjen Robben",
+          "Spieler[5]": "FC Bayern München",
+          "Verein": "20",
+          "Gesamt": "12",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Didier Ya Konan",
+          "Spieler[5]": "Hannover 96",
+          "Verein": "20",
+          "Gesamt": "14",
+          "Tore": "06"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "André Schürrle",
+          "Spieler[5]": "1. FSV Mainz 05",
+          "Verein": "19",
+          "Gesamt": "15",
+          "Tore": "04"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Christian Tiffert",
+          "Spieler[5]": "1. FC Kaiserslautern",
+          "Verein": "19",
+          "Gesamt": "02",
+          "Tore": "17"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Lucas Barrios",
+          "Spieler[5]": "Borussia Dortmund",
+          "Verein": "18",
+          "Gesamt": "16",
+          "Tore": "02"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Theofanis Gekas",
+          "Spieler[5]": "Eintracht Frankfurt",
+          "Verein": "18",
+          "Gesamt": "16",
+          "Tore": "02"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Marco Reus",
+          "Spieler[5]": "Borussia Mönchengladbach",
+          "Verein": "18",
+          "Gesamt": "10",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "",
+          "Nat.": "Franck Ribéry",
+          "Spieler[5]": "FC Bayern München",
+          "Verein": "18",
+          "Gesamt": "07",
+          "Tore": "11"
+        }
+      ]
+    },
+    {
+      "season": 2011,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "Borussia Dortmund(M)",
+          "Sp.": "34",
+          "S": "25",
+          "U": "6",
+          "N": "3",
+          "Tore": "080:250",
+          "Diff.": "+55",
+          "Punkte": "81"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "FC Bayern München",
+          "Sp.": "34",
+          "S": "23",
+          "U": "4",
+          "N": "7",
+          "Tore": "077:220",
+          "Diff.": "+55",
+          "Punkte": "73"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "FC Schalke 04(P)",
+          "Sp.": "34",
+          "S": "20",
+          "U": "4",
+          "N": "10",
+          "Tore": "074:440",
+          "Diff.": "+30",
+          "Punkte": "64"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "Borussia Mönchengladbach(R)",
+          "Sp.": "34",
+          "S": "17",
+          "U": "9",
+          "N": "8",
+          "Tore": "049:240",
+          "Diff.": "+25",
+          "Punkte": "60"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "15",
+          "U": "9",
+          "N": "10",
+          "Tore": "052:440",
+          "Diff.": "+8",
+          "Punkte": "54"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "15",
+          "U": "8",
+          "N": "11",
+          "Tore": "063:460",
+          "Diff.": "+17",
+          "Punkte": "53"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "12",
+          "U": "12",
+          "N": "10",
+          "Tore": "041:450",
+          "Diff.": "−4",
+          "Punkte": "48"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "13",
+          "U": "5",
+          "N": "16",
+          "Tore": "047:600",
+          "Diff.": "−13",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "11",
+          "U": "9",
+          "N": "14",
+          "Tore": "049:580",
+          "Diff.": "−9",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "1. FC Nürnberg",
+          "Sp.": "34",
+          "S": "12",
+          "U": "6",
+          "N": "16",
+          "Tore": "038:490",
+          "Diff.": "−11",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "10",
+          "U": "11",
+          "N": "13",
+          "Tore": "041:470",
+          "Diff.": "−6",
+          "Punkte": "41"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "10",
+          "U": "10",
+          "N": "14",
+          "Tore": "045:610",
+          "Diff.": "−16",
+          "Punkte": "40"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "9",
+          "U": "12",
+          "N": "13",
+          "Tore": "047:510",
+          "Diff.": "−4",
+          "Punkte": "39"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "FC Augsburg(N)",
+          "Sp.": "34",
+          "S": "8",
+          "U": "14",
+          "N": "12",
+          "Tore": "036:490",
+          "Diff.": "−13",
+          "Punkte": "38"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "Hamburger SV",
+          "Sp.": "34",
+          "S": "8",
+          "U": "12",
+          "N": "14",
+          "Tore": "035:570",
+          "Diff.": "−22",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "Hertha BSC(N)",
+          "Sp.": "34",
+          "S": "7",
+          "U": "10",
+          "N": "17",
+          "Tore": "038:640",
+          "Diff.": "−26",
+          "Punkte": "31"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "1. FC Köln",
+          "Sp.": "34",
+          "S": "8",
+          "U": "6",
+          "N": "20",
+          "Tore": "039:750",
+          "Diff.": "−36",
+          "Punkte": "30"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "1. FC Kaiserslautern",
+          "Sp.": "34",
+          "S": "4",
+          "U": "11",
+          "N": "19",
+          "Tore": "024:540",
+          "Diff.": "−30",
+          "Punkte": "23"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "01",
+          "Spieler[11]": "Klaas-Jan Huntelaar",
+          "Verein": "FC Schalke 04",
+          "Tore": "29"
+        },
+        {
+          "Pl.": "02",
+          "Spieler[11]": "Mario Gómez",
+          "Verein": "FC Bayern München",
+          "Tore": "26"
+        },
+        {
+          "Pl.": "03",
+          "Spieler[11]": "Robert Lewandowski",
+          "Verein": "Borussia Dortmund",
+          "Tore": "22"
+        },
+        {
+          "Pl.": "04",
+          "Spieler[11]": "Claudio Pizarro",
+          "Verein": "Werder Bremen",
+          "Tore": "18"
+        },
+        {
+          "Pl.": "Lukas Podolski",
+          "Spieler[11]": "1. FC Köln"
+        },
+        {
+          "Pl.": "Marco Reus",
+          "Spieler[11]": "Borussia Mönchengladbach"
+        },
+        {
+          "Pl.": "07",
+          "Spieler[11]": "Martin Harnik",
+          "Verein": "VfB Stuttgart",
+          "Tore": "17"
+        },
+        {
+          "Pl.": "08",
+          "Spieler[11]": "Stefan Kießling",
+          "Verein": "Bayer 04 Leverkusen",
+          "Tore": "16"
+        },
+        {
+          "Pl.": "09",
+          "Spieler[11]": "Raúl",
+          "Verein": "FC Schalke 04",
+          "Tore": "15"
+        },
+        {
+          "Pl.": "10",
+          "Spieler[11]": "Vedad Ibišević",
+          "Verein": "VfB Stuttgart1",
+          "Tore": "13"
+        },
+        {
+          "Pl.": "Shinji Kagawa",
+          "Spieler[11]": "Borussia Dortmund"
+        },
+        {
+          "Pl.": "01",
+          "Spieler[12]": "Klaas-Jan Huntelaar",
+          "Verein": "FC Schalke 04",
+          "Gesamt": "42",
+          "Tore": "29",
+          "Vorlagen": "13"
+        },
+        {
+          "Pl.": "02",
+          "Spieler[12]": "Robert Lewandowski",
+          "Verein": "Borussia Dortmund",
+          "Gesamt": "32",
+          "Tore": "22",
+          "Vorlagen": "10"
+        },
+        {
+          "Pl.": "Franck Ribéry",
+          "Spieler[12]": "FC Bayern München",
+          "Verein": "12",
+          "Gesamt": "20"
+        },
+        {
+          "Pl.": "04",
+          "Spieler[12]": "Mario Gómez",
+          "Verein": "FC Bayern München",
+          "Gesamt": "29",
+          "Tore": "26",
+          "Vorlagen": "03"
+        },
+        {
+          "Pl.": "Marco Reus",
+          "Spieler[12]": "Borussia Mönchengladbach",
+          "Verein": "18",
+          "Gesamt": "11"
+        },
+        {
+          "Pl.": "06",
+          "Spieler[12]": "Claudio Pizarro",
+          "Verein": "Werder Bremen",
+          "Gesamt": "28",
+          "Tore": "10"
+        },
+        {
+          "Pl.": "07",
+          "Spieler[12]": "Lukas Podolski",
+          "Verein": "1. FC Köln",
+          "Gesamt": "27",
+          "Tore": "09"
+        },
+        {
+          "Pl.": "08",
+          "Spieler[12]": "Martin Harnik",
+          "Verein": "VfB Stuttgart",
+          "Gesamt": "25",
+          "Tore": "17",
+          "Vorlagen": "08"
+        },
+        {
+          "Pl.": "09",
+          "Spieler[12]": "Shinji Kagawa",
+          "Verein": "Borussia Dortmund",
+          "Gesamt": "24",
+          "Tore": "13",
+          "Vorlagen": "11"
+        },
+        {
+          "Pl.": "010",
+          "Spieler[12]": "Mario Mandžukić",
+          "Verein": "VfL Wolfsburg",
+          "Gesamt": "22",
+          "Tore": "12",
+          "Vorlagen": "10"
+        }
+      ]
+    },
+    {
+      "season": 2012,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München",
+          "Sp.": "34",
+          "S": "29",
+          "U": "4",
+          "N": "1",
+          "Tore": "098:180",
+          "Diff.": "+80",
+          "Punkte": "91",
+          "Anm.": "M / CL"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "Borussia Dortmund(M, P)",
+          "Sp.": "34",
+          "S": "19",
+          "U": "9",
+          "N": "6",
+          "Tore": "081:420",
+          "Diff.": "+39",
+          "Punkte": "66",
+          "Anm.": "CL"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "19",
+          "U": "8",
+          "N": "7",
+          "Tore": "065:390",
+          "Diff.": "+26",
+          "Punkte": "65"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "16",
+          "U": "7",
+          "N": "11",
+          "Tore": "058:500",
+          "Diff.": "+8",
+          "Punkte": "55",
+          "Anm.": "(CL)"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "14",
+          "U": "9",
+          "N": "11",
+          "Tore": "045:400",
+          "Diff.": "+5",
+          "Punkte": "51",
+          "Anm.": "EL"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "Eintracht Frankfurt(N)",
+          "Sp.": "34",
+          "S": "14",
+          "U": "9",
+          "N": "11",
+          "Tore": "049:460",
+          "Diff.": "+3",
+          "Punkte": "51",
+          "Anm.": "(EL)"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "Hamburger SV",
+          "Sp.": "34",
+          "S": "14",
+          "U": "6",
+          "N": "14",
+          "Tore": "042:530",
+          "Diff.": "−11",
+          "Punkte": "48"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "12",
+          "U": "11",
+          "N": "11",
+          "Tore": "045:490",
+          "Diff.": "−4",
+          "Punkte": "47"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "13",
+          "U": "6",
+          "N": "15",
+          "Tore": "060:620",
+          "Diff.": "−2",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "1. FC Nürnberg",
+          "Sp.": "34",
+          "S": "11",
+          "U": "11",
+          "N": "12",
+          "Tore": "039:470",
+          "Diff.": "−8",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "10",
+          "U": "13",
+          "N": "11",
+          "Tore": "047:520",
+          "Diff.": "−5",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "12",
+          "U": "7",
+          "N": "15",
+          "Tore": "037:550",
+          "Diff.": "−18",
+          "Punkte": "43",
+          "Anm.": "(EL)"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "10",
+          "U": "12",
+          "N": "12",
+          "Tore": "042:440",
+          "Diff.": "−2",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "8",
+          "U": "10",
+          "N": "16",
+          "Tore": "050:660",
+          "Diff.": "−16",
+          "Punkte": "34"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "8",
+          "U": "9",
+          "N": "17",
+          "Tore": "033:510",
+          "Diff.": "−18",
+          "Punkte": "33"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "8",
+          "U": "7",
+          "N": "19",
+          "Tore": "042:670",
+          "Diff.": "−25",
+          "Punkte": "31",
+          "Anm.": "(▼)"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "Fortuna Düsseldorf(N)",
+          "Sp.": "34",
+          "S": "7",
+          "U": "9",
+          "N": "18",
+          "Tore": "039:570",
+          "Diff.": "−18",
+          "Punkte": "30",
+          "Anm.": "▼"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "SpVgg Greuther Fürth(N)",
+          "Sp.": "34",
+          "S": "4",
+          "U": "9",
+          "N": "21",
+          "Tore": "026:600",
+          "Diff.": "−34",
+          "Punkte": "21"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "1",
+          "Spieler": "Stefan Kießling",
+          "Verein": "Bayer 04 Leverkusen",
+          "Tore": "25"
+        },
+        {
+          "Pl.": "2",
+          "Spieler": "Robert Lewandowski",
+          "Verein": "Borussia Dortmund",
+          "Tore": "24"
+        },
+        {
+          "Pl.": "3",
+          "Spieler": "Alex Meier",
+          "Verein": "Eintracht Frankfurt",
+          "Tore": "16"
+        },
+        {
+          "Pl.": "4",
+          "Spieler": "Vedad Ibišević",
+          "Verein": "VfB Stuttgart",
+          "Tore": "15"
+        },
+        {
+          "Pl.": "4",
+          "Spieler": "Mario Mandžukić",
+          "Verein": "FC Bayern München",
+          "Tore": "15"
+        },
+        {
+          "Pl.": "6",
+          "Spieler": "Marco Reus",
+          "Verein": "Borussia Dortmund",
+          "Tore": "14"
+        },
+        {
+          "Pl.": "7",
+          "Spieler": "Thomas Müller",
+          "Verein": "FC Bayern München",
+          "Tore": "13"
+        },
+        {
+          "Pl.": "7",
+          "Spieler": "Ádám Szalai",
+          "Verein": "1. FSV Mainz 05",
+          "Tore": "13"
+        },
+        {
+          "Pl.": "9",
+          "Spieler": "Mame Diouf",
+          "Verein": "Hannover 96",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "9",
+          "Spieler": "Heung-Min Son",
+          "Verein": "Hamburger SV",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "9",
+          "Spieler": "Artjoms Rudņevs",
+          "Verein": "Hamburger SV",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "1",
+          "Spieler": "Stefan Kießling",
+          "Verein": "Bayer 04 Leverkusen",
+          "Gesamt": "32",
+          "Tore": "25",
+          "Vorlagen": "07"
+        },
+        {
+          "Pl.": "2",
+          "Spieler": "Robert Lewandowski",
+          "Verein": "Borussia Dortmund",
+          "Gesamt": "29",
+          "Tore": "24",
+          "Vorlagen": "05"
+        },
+        {
+          "Pl.": "3",
+          "Spieler": "Thomas Müller",
+          "Verein": "FC Bayern München",
+          "Gesamt": "24",
+          "Tore": "13",
+          "Vorlagen": "11"
+        },
+        {
+          "Pl.": "3",
+          "Spieler": "Franck Ribéry",
+          "Verein": "FC Bayern München",
+          "Gesamt": "24",
+          "Tore": "10",
+          "Vorlagen": "14"
+        },
+        {
+          "Pl.": "5",
+          "Spieler": "Marco Reus",
+          "Verein": "Borussia Dortmund",
+          "Gesamt": "23",
+          "Tore": "14",
+          "Vorlagen": "09"
+        },
+        {
+          "Pl.": "6",
+          "Spieler": "Jakub Błaszczykowski",
+          "Verein": "Borussia Dortmund",
+          "Gesamt": "20",
+          "Tore": "11",
+          "Vorlagen": "09"
+        },
+        {
+          "Pl.": "7",
+          "Spieler": "Kevin De Bruyne",
+          "Verein": "Werder Bremen",
+          "Gesamt": "19",
+          "Tore": "10",
+          "Vorlagen": "09"
+        },
+        {
+          "Pl.": "7",
+          "Spieler": "Alex Meier",
+          "Verein": "Eintracht Frankfurt",
+          "Gesamt": "19",
+          "Tore": "16",
+          "Vorlagen": "03"
+        },
+        {
+          "Pl.": "9",
+          "Spieler": "Mario Götze",
+          "Verein": "Borussia Dortmund",
+          "Gesamt": "18",
+          "Tore": "10",
+          "Vorlagen": "08"
+        },
+        {
+          "Pl.": "9",
+          "Spieler": "Szabolcs Huszti",
+          "Verein": "Hannover 96",
+          "Gesamt": "18",
+          "Tore": "09",
+          "Vorlagen": "09"
+        },
+        {
+          "Pl.": "9",
+          "Spieler": "Vedad Ibišević",
+          "Verein": "VfB Stuttgart",
+          "Gesamt": "18",
+          "Tore": "15",
+          "Vorlagen": "03"
+        },
+        {
+          "Pl.": "9",
+          "Spieler": "Max Kruse",
+          "Verein": "SC Freiburg",
+          "Gesamt": "18",
+          "Tore": "11",
+          "Vorlagen": "07"
+        }
+      ]
+    },
+    {
+      "season": 2013,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München(M, P)",
+          "Sp.": "34",
+          "S": "29",
+          "U": "3",
+          "N": "2",
+          "Tore": "094:230",
+          "Diff.": "+71",
+          "Punkte": "90"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "22",
+          "U": "5",
+          "N": "7",
+          "Tore": "080:380",
+          "Diff.": "+42",
+          "Punkte": "71"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "19",
+          "U": "7",
+          "N": "8",
+          "Tore": "063:430",
+          "Diff.": "+20",
+          "Punkte": "64"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "19",
+          "U": "4",
+          "N": "11",
+          "Tore": "060:410",
+          "Diff.": "+19",
+          "Punkte": "61"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "18",
+          "U": "6",
+          "N": "10",
+          "Tore": "063:500",
+          "Diff.": "+13",
+          "Punkte": "60"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "16",
+          "U": "7",
+          "N": "11",
+          "Tore": "059:430",
+          "Diff.": "+16",
+          "Punkte": "55"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "16",
+          "U": "5",
+          "N": "13",
+          "Tore": "052:540",
+          "Diff.": "−2",
+          "Punkte": "53"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "15",
+          "U": "7",
+          "N": "12",
+          "Tore": "047:470",
+          "Diff.": "±0",
+          "Punkte": "52"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "TSG 1899 Hoffenheim(R)",
+          "Sp.": "34",
+          "S": "11",
+          "U": "11",
+          "N": "12",
+          "Tore": "072:700",
+          "Diff.": "+2",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "12",
+          "U": "6",
+          "N": "16",
+          "Tore": "046:590",
+          "Diff.": "−13",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "Hertha BSC(N)",
+          "Sp.": "34",
+          "S": "11",
+          "U": "8",
+          "N": "15",
+          "Tore": "040:480",
+          "Diff.": "−8",
+          "Punkte": "41"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "10",
+          "U": "9",
+          "N": "15",
+          "Tore": "042:660",
+          "Diff.": "−24",
+          "Punkte": "39"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "9",
+          "U": "9",
+          "N": "16",
+          "Tore": "040:570",
+          "Diff.": "−17",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "9",
+          "U": "9",
+          "N": "16",
+          "Tore": "043:610",
+          "Diff.": "−18",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "8",
+          "U": "8",
+          "N": "18",
+          "Tore": "049:620",
+          "Diff.": "−13",
+          "Punkte": "32"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "Hamburger SV",
+          "Sp.": "34",
+          "S": "7",
+          "U": "6",
+          "N": "21",
+          "Tore": "051:750",
+          "Diff.": "−24",
+          "Punkte": "27"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "1. FC Nürnberg",
+          "Sp.": "34",
+          "S": "5",
+          "U": "11",
+          "N": "18",
+          "Tore": "037:700",
+          "Diff.": "−33",
+          "Punkte": "26"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "Eintracht Braunschweig(N)",
+          "Sp.": "34",
+          "S": "6",
+          "U": "7",
+          "N": "21",
+          "Tore": "029:600",
+          "Diff.": "−31",
+          "Punkte": "25"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "20"
+        },
+        {
+          "Pl.": "Mario Mandžukić",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "18"
+        },
+        {
+          "Pl.": "Josip Drmić",
+          "Spieler": "1. FC Nürnberg",
+          "Mannschaft": "17"
+        },
+        {
+          "Pl.": "Roberto Firmino",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "16"
+        },
+        {
+          "Pl.": "Adrián Ramos",
+          "Spieler": "Hertha BSC"
+        },
+        {
+          "Pl.": "Marco Reus",
+          "Spieler": "Borussia Dortmund"
+        },
+        {
+          "Pl.": "Stefan Kießling",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "15"
+        },
+        {
+          "Pl.": "Shinji Okazaki",
+          "Spieler": "1. FSV Mainz 05"
+        },
+        {
+          "Pl.": "Raffael",
+          "Spieler": "Borussia Mönchengladbach"
+        },
+        {
+          "Pl.": "Ivica Olić",
+          "Spieler": "VfL Wolfsburg",
+          "Mannschaft": "14"
+        },
+        {
+          "Pl.": "Marco Reus",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "30",
+          "Ges.": "16",
+          "Tore": "14"
+        },
+        {
+          "Pl.": "Roberto Firmino",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "28",
+          "Ges.": "16",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "28",
+          "Ges.": "20",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "Max Kruse",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "24",
+          "Ges.": "12",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "Mario Mandžukić",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "23",
+          "Ges.": "18",
+          "Tore": "05"
+        },
+        {
+          "Pl.": "Thomas Müller",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "23",
+          "Ges.": "13",
+          "Tore": "10"
+        },
+        {
+          "Pl.": "Raffael",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "22",
+          "Ges.": "15",
+          "Tore": "07"
+        },
+        {
+          "Pl.": "Adrián Ramos",
+          "Spieler": "Hertha BSC",
+          "Mannschaft": "22",
+          "Ges.": "16",
+          "Tore": "06"
+        },
+        {
+          "Pl.": "Ivica Olić",
+          "Spieler": "VfL Wolfsburg",
+          "Mannschaft": "21",
+          "Ges.": "14",
+          "Tore": "07"
+        },
+        {
+          "Pl.": "Franck Ribéry",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "21",
+          "Ges.": "10",
+          "Tore": "11"
+        }
+      ]
+    },
+    {
+      "season": 2014,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München(M, P)",
+          "Sp.": "34",
+          "S": "25",
+          "U": "4",
+          "N": "5",
+          "Tore": "080:180",
+          "Diff.": "+62",
+          "Punkte": "79"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "20",
+          "U": "9",
+          "N": "5",
+          "Tore": "072:380",
+          "Diff.": "+34",
+          "Punkte": "69"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "19",
+          "U": "9",
+          "N": "6",
+          "Tore": "053:260",
+          "Diff.": "+27",
+          "Punkte": "66"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "17",
+          "U": "10",
+          "N": "7",
+          "Tore": "062:370",
+          "Diff.": "+25",
+          "Punkte": "61"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "15",
+          "U": "4",
+          "N": "15",
+          "Tore": "043:430",
+          "Diff.": "±0",
+          "Punkte": "49"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "13",
+          "U": "9",
+          "N": "12",
+          "Tore": "042:400",
+          "Diff.": "+2",
+          "Punkte": "48"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "13",
+          "U": "7",
+          "N": "14",
+          "Tore": "047:420",
+          "Diff.": "+5",
+          "Punkte": "46"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "12",
+          "U": "8",
+          "N": "14",
+          "Tore": "049:550",
+          "Diff.": "−6",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "11",
+          "U": "10",
+          "N": "13",
+          "Tore": "056:620",
+          "Diff.": "−6",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "11",
+          "U": "10",
+          "N": "13",
+          "Tore": "050:650",
+          "Diff.": "−15",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "9",
+          "U": "13",
+          "N": "12",
+          "Tore": "045:470",
+          "Diff.": "−2",
+          "Punkte": "40"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "1. FC Köln(N)",
+          "Sp.": "34",
+          "S": "9",
+          "U": "13",
+          "N": "12",
+          "Tore": "034:400",
+          "Diff.": "−6",
+          "Punkte": "40"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "9",
+          "U": "10",
+          "N": "15",
+          "Tore": "040:560",
+          "Diff.": "−16",
+          "Punkte": "37"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "9",
+          "U": "9",
+          "N": "16",
+          "Tore": "042:600",
+          "Diff.": "−18",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "9",
+          "U": "8",
+          "N": "17",
+          "Tore": "036:520",
+          "Diff.": "−16",
+          "Punkte": "35"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "Hamburger SV(R)",
+          "Sp.": "34",
+          "S": "9",
+          "U": "8",
+          "N": "17",
+          "Tore": "025:500",
+          "Diff.": "−25",
+          "Punkte": "35"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "7",
+          "U": "13",
+          "N": "14",
+          "Tore": "036:470",
+          "Diff.": "−11",
+          "Punkte": "34"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "SC Paderborn 07(N)",
+          "Sp.": "34",
+          "S": "7",
+          "U": "10",
+          "N": "17",
+          "Tore": "031:650",
+          "Diff.": "−34",
+          "Punkte": "31"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "Alex Meier",
+          "Spieler": "Eintracht Frankfurt",
+          "Mannschaft": "19"
+        },
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "17"
+        },
+        {
+          "Pl.": "Arjen Robben",
+          "Spieler": "FC Bayern München"
+        },
+        {
+          "Pl.": "Pierre-Emerick Aubameyang",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "16"
+        },
+        {
+          "Pl.": "Bas Dost",
+          "Spieler": "VfL Wolfsburg"
+        },
+        {
+          "Pl.": "Franco Di Santo",
+          "Spieler": "Werder Bremen",
+          "Mannschaft": "13"
+        },
+        {
+          "Pl.": "Thomas Müller",
+          "Spieler": "FC Bayern München"
+        },
+        {
+          "Pl.": "Karim Bellarabi",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "12"
+        },
+        {
+          "Pl.": "Shinji Okazaki",
+          "Spieler": "1. FSV Mainz 05"
+        },
+        {
+          "Pl.": "Raffael",
+          "Spieler": "Borussia Mönchengladbach"
+        },
+        {
+          "Pl.": "Kevin De Bruyne",
+          "Spieler": "VfL Wolfsburg",
+          "Mannschaft": "30",
+          "Ges.": "10",
+          "Tore": "20"
+        },
+        {
+          "Pl.": "Arjen Robben",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "24",
+          "Ges.": "17",
+          "Tore": "07"
+        },
+        {
+          "Pl.": "Thomas Müller",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "23",
+          "Ges.": "13",
+          "Tore": "10"
+        },
+        {
+          "Pl.": "Pierre-Emerick Aubameyang",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "22",
+          "Ges.": "16",
+          "Tore": "06"
+        },
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "22",
+          "Ges.": "17",
+          "Tore": "05"
+        },
+        {
+          "Pl.": "Alex Meier",
+          "Spieler": "Eintracht Frankfurt",
+          "Mannschaft": "21",
+          "Ges.": "19",
+          "Tore": "02"
+        },
+        {
+          "Pl.": "Max Kruse",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "20",
+          "Ges.": "11",
+          "Tore": "09"
+        },
+        {
+          "Pl.": "Bas Dost",
+          "Spieler": "VfL Wolfsburg",
+          "Mannschaft": "20",
+          "Ges.": "16",
+          "Tore": "04"
+        },
+        {
+          "Pl.": "Zlatko Junuzović",
+          "Spieler": "Werder Bremen",
+          "Mannschaft": "18",
+          "Ges.": "06",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "Karim Bellarabi",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "18",
+          "Ges.": "12",
+          "Tore": "06"
+        }
+      ]
+    },
+    {
+      "season": 2015,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München(M)",
+          "Sp.": "34",
+          "S": "28",
+          "U": "4",
+          "N": "2",
+          "Tore": "080:170",
+          "Diff.": "+63",
+          "Punkte": "88"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "24",
+          "U": "6",
+          "N": "4",
+          "Tore": "082:340",
+          "Diff.": "+48",
+          "Punkte": "78"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "18",
+          "U": "6",
+          "N": "10",
+          "Tore": "056:400",
+          "Diff.": "+16",
+          "Punkte": "60"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "17",
+          "U": "4",
+          "N": "13",
+          "Tore": "067:500",
+          "Diff.": "+17",
+          "Punkte": "55"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "15",
+          "U": "7",
+          "N": "12",
+          "Tore": "051:490",
+          "Diff.": "+2",
+          "Punkte": "52"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "14",
+          "U": "8",
+          "N": "12",
+          "Tore": "046:420",
+          "Diff.": "+4",
+          "Punkte": "50"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "14",
+          "U": "8",
+          "N": "12",
+          "Tore": "042:420",
+          "Diff.": "±0",
+          "Punkte": "50"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "VfL Wolfsburg(P)",
+          "Sp.": "34",
+          "S": "12",
+          "U": "9",
+          "N": "13",
+          "Tore": "047:490",
+          "Diff.": "−2",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "1. FC Köln",
+          "Sp.": "34",
+          "S": "10",
+          "U": "13",
+          "N": "11",
+          "Tore": "038:420",
+          "Diff.": "−4",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Hamburger SV(R)",
+          "Sp.": "34",
+          "S": "11",
+          "U": "8",
+          "N": "15",
+          "Tore": "040:460",
+          "Diff.": "−6",
+          "Punkte": "41"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "FC Ingolstadt 04(N)",
+          "Sp.": "34",
+          "S": "10",
+          "U": "10",
+          "N": "14",
+          "Tore": "033:420",
+          "Diff.": "−9",
+          "Punkte": "40"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "9",
+          "U": "11",
+          "N": "14",
+          "Tore": "042:520",
+          "Diff.": "−10",
+          "Punkte": "38"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "10",
+          "U": "8",
+          "N": "16",
+          "Tore": "050:650",
+          "Diff.": "−15",
+          "Punkte": "38"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "SV Darmstadt 98(N)",
+          "Sp.": "34",
+          "S": "9",
+          "U": "11",
+          "N": "14",
+          "Tore": "038:530",
+          "Diff.": "−15",
+          "Punkte": "38"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "9",
+          "U": "10",
+          "N": "15",
+          "Tore": "039:540",
+          "Diff.": "−15",
+          "Punkte": "37"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "9",
+          "U": "9",
+          "N": "16",
+          "Tore": "034:520",
+          "Diff.": "−18",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "9",
+          "U": "6",
+          "N": "19",
+          "Tore": "050:750",
+          "Diff.": "−25",
+          "Punkte": "33"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "7",
+          "U": "4",
+          "N": "23",
+          "Tore": "031:620",
+          "Diff.": "−31",
+          "Punkte": "25"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "30"
+        },
+        {
+          "Pl.": "Pierre-Emerick Aubameyang",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "25"
+        },
+        {
+          "Pl.": "Thomas Müller",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "20"
+        },
+        {
+          "Pl.": "Chicharito",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "17"
+        },
+        {
+          "Pl.": "Anthony Modeste",
+          "Spieler": "1. FC Köln",
+          "Mannschaft": "15"
+        },
+        {
+          "Pl.": "Salomon Kalou",
+          "Spieler": "Hertha BSC",
+          "Mannschaft": "14"
+        },
+        {
+          "Pl.": "Claudio Pizarro",
+          "Spieler": "Werder Bremen"
+        },
+        {
+          "Pl.": "Sandro Wagner",
+          "Spieler": "SV Darmstadt 98"
+        },
+        {
+          "Pl.": "Daniel Didavi",
+          "Spieler": "VfB Stuttgart",
+          "Mannschaft": "13"
+        },
+        {
+          "Pl.": "Raffael",
+          "Spieler": "Borussia Mönchengladbach"
+        },
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "34",
+          "Ges.": "04",
+          "Vorl.": "30"
+        },
+        {
+          "Pl.": "Henrich Mchitarjan",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "31",
+          "Ges.": "20",
+          "Vorl.": "11"
+        },
+        {
+          "Pl.": "Pierre-Emerick Aubameyang",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "06",
+          "Ges.": "25"
+        },
+        {
+          "Pl.": "Thomas Müller",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "27",
+          "Ges.": "07",
+          "Vorl.": "20"
+        },
+        {
+          "Pl.": "Raffael",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "23",
+          "Ges.": "10",
+          "Vorl.": "13"
+        },
+        {
+          "Pl.": "Chicharito",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "21",
+          "Ges.": "04",
+          "Vorl.": "17"
+        },
+        {
+          "Pl.": "Anthony Modeste",
+          "Spieler": "1. FC Köln",
+          "Mannschaft": "20",
+          "Ges.": "05",
+          "Vorl.": "15"
+        },
+        {
+          "Pl.": "Douglas Costa",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "18",
+          "Ges.": "14",
+          "Vorl.": "04"
+        },
+        {
+          "Pl.": "Lars Stindl",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "11",
+          "Ges.": "07"
+        },
+        {
+          "Pl.": "Kevin Volland",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "10",
+          "Ges.": "08"
+        },
+        {
+          "Pl.": "Shinji Kagawa",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "09",
+          "Ges.": "09"
+        },
+        {
+          "Pl.": "Daniel Didavi",
+          "Spieler": "VfB Stuttgart",
+          "Mannschaft": "05",
+          "Ges.": "13"
+        },
+        {
+          "Pl.": "Sandro Wagner",
+          "Spieler": "SV Darmstadt 98",
+          "Mannschaft": "04",
+          "Ges.": "14"
+        }
+      ]
+    },
+    {
+      "season": 2016,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München(M, P)",
+          "Sp.": "34",
+          "S": "25",
+          "U": "7",
+          "N": "2",
+          "Tore": "089:220",
+          "Diff.": "+67",
+          "Punkte": "82"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "RB Leipzig(N)",
+          "Sp.": "34",
+          "S": "20",
+          "U": "7",
+          "N": "7",
+          "Tore": "066:390",
+          "Diff.": "+27",
+          "Punkte": "67"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "18",
+          "U": "10",
+          "N": "6",
+          "Tore": "072:400",
+          "Diff.": "+32",
+          "Punkte": "64"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "16",
+          "U": "14",
+          "N": "4",
+          "Tore": "064:370",
+          "Diff.": "+27",
+          "Punkte": "62"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "1. FC Köln",
+          "Sp.": "34",
+          "S": "12",
+          "U": "13",
+          "N": "9",
+          "Tore": "051:420",
+          "Diff.": "+9",
+          "Punkte": "49"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "15",
+          "U": "4",
+          "N": "15",
+          "Tore": "043:470",
+          "Diff.": "−4",
+          "Punkte": "49"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "SC Freiburg(N)",
+          "Sp.": "34",
+          "S": "14",
+          "U": "6",
+          "N": "14",
+          "Tore": "042:600",
+          "Diff.": "−18",
+          "Punkte": "48"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "13",
+          "U": "6",
+          "N": "15",
+          "Tore": "061:640",
+          "Diff.": "−3",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "12",
+          "U": "9",
+          "N": "13",
+          "Tore": "045:490",
+          "Diff.": "−4",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "11",
+          "U": "10",
+          "N": "13",
+          "Tore": "045:400",
+          "Diff.": "+5",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "Eintracht Frankfurt(R)",
+          "Sp.": "34",
+          "S": "11",
+          "U": "9",
+          "N": "14",
+          "Tore": "036:430",
+          "Diff.": "−7",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "11",
+          "U": "8",
+          "N": "15",
+          "Tore": "053:550",
+          "Diff.": "−2",
+          "Punkte": "41"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "9",
+          "U": "11",
+          "N": "14",
+          "Tore": "035:510",
+          "Diff.": "−16",
+          "Punkte": "38"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "Hamburger SV",
+          "Sp.": "34",
+          "S": "10",
+          "U": "8",
+          "N": "16",
+          "Tore": "033:610",
+          "Diff.": "−28",
+          "Punkte": "38"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "10",
+          "U": "7",
+          "N": "17",
+          "Tore": "044:550",
+          "Diff.": "−11",
+          "Punkte": "37"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "10",
+          "U": "7",
+          "N": "17",
+          "Tore": "034:520",
+          "Diff.": "−18",
+          "Punkte": "37"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "FC Ingolstadt 04",
+          "Sp.": "34",
+          "S": "8",
+          "U": "8",
+          "N": "18",
+          "Tore": "036:570",
+          "Diff.": "−21",
+          "Punkte": "32"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "SV Darmstadt 98",
+          "Sp.": "34",
+          "S": "7",
+          "U": "4",
+          "N": "23",
+          "Tore": "028:630",
+          "Diff.": "−35",
+          "Punkte": "25"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "Pierre-Emerick Aubameyang",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "31"
+        },
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "30"
+        },
+        {
+          "Pl.": "Anthony Modeste",
+          "Spieler": "1. FC Köln",
+          "Mannschaft": "25"
+        },
+        {
+          "Pl.": "Timo Werner",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "21"
+        },
+        {
+          "Pl.": "Mario Gómez",
+          "Spieler": "VfL Wolfsburg",
+          "Mannschaft": "16"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "15"
+        },
+        {
+          "Pl.": "Max Kruse",
+          "Spieler": "Werder Bremen"
+        },
+        {
+          "Pl.": "Arjen Robben",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "13"
+        },
+        {
+          "Pl.": "Vedad Ibišević",
+          "Spieler": "Hertha BSC",
+          "Mannschaft": "12"
+        },
+        {
+          "Pl.": "Chicharito",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "11"
+        },
+        {
+          "Pl.": "Serge Gnabry",
+          "Spieler": "Werder Bremen"
+        },
+        {
+          "Pl.": "Florian Niederlechner",
+          "Spieler": "SC Freiburg"
+        },
+        {
+          "Pl.": "Lars Stindl",
+          "Spieler": "Borussia Mönchengladbach"
+        },
+        {
+          "Pl.": "Sandro Wagner",
+          "Spieler": "TSG 1899 Hoffenheim"
+        },
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "35",
+          "Ges.": "05",
+          "Vorl.": "30"
+        },
+        {
+          "Pl.": "Pierre-Emerick Aubameyang",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "33",
+          "Ges.": "02",
+          "Vorl.": "31"
+        },
+        {
+          "Pl.": "Emil Forsberg",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "27",
+          "Ges.": "19",
+          "Vorl.": "08"
+        },
+        {
+          "Pl.": "Anthony Modeste",
+          "Spieler": "1. FC Köln",
+          "Mannschaft": "02",
+          "Ges.": "25"
+        },
+        {
+          "Pl.": "Timo Werner",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "26",
+          "Ges.": "05",
+          "Vorl.": "21"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "23",
+          "Ges.": "08",
+          "Vorl.": "15"
+        },
+        {
+          "Pl.": "Arjen Robben",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "22",
+          "Ges.": "09",
+          "Vorl.": "13"
+        },
+        {
+          "Pl.": "Max Kruse",
+          "Spieler": "Werder Bremen",
+          "Mannschaft": "07",
+          "Ges.": "15"
+        },
+        {
+          "Pl.": "Ousmane Dembélé",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "18",
+          "Ges.": "12",
+          "Vorl.": "06"
+        },
+        {
+          "Pl.": "Thomas Müller",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "17",
+          "Ges.": "12",
+          "Vorl.": "05"
+        },
+        {
+          "Pl.": "Mario Gómez",
+          "Spieler": "VfL Wolfsburg",
+          "Mannschaft": "01",
+          "Ges.": "16"
+        }
+      ]
+    },
+    {
+      "season": 2017,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München(M)",
+          "Sp.": "34",
+          "S": "27",
+          "U": "3",
+          "N": "4",
+          "Tore": "092:280",
+          "Diff.": "+64",
+          "Punkte": "84",
+          "Anm.": "M / CL"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "18",
+          "U": "9",
+          "N": "7",
+          "Tore": "053:370",
+          "Diff.": "+16",
+          "Punkte": "63",
+          "Anm.": "CL"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "15",
+          "U": "10",
+          "N": "9",
+          "Tore": "066:480",
+          "Diff.": "+18",
+          "Punkte": "55"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "Borussia Dortmund(P)",
+          "Sp.": "34",
+          "S": "15",
+          "U": "10",
+          "N": "9",
+          "Tore": "064:470",
+          "Diff.": "+17",
+          "Punkte": "55"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "15",
+          "U": "10",
+          "N": "9",
+          "Tore": "058:440",
+          "Diff.": "+14",
+          "Punkte": "55",
+          "Anm.": "EL"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "RB Leipzig",
+          "Sp.": "34",
+          "S": "15",
+          "U": "8",
+          "N": "11",
+          "Tore": "057:530",
+          "Diff.": "+4",
+          "Punkte": "53",
+          "Anm.": "(EL)"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "VfB Stuttgart(N)",
+          "Sp.": "34",
+          "S": "15",
+          "U": "6",
+          "N": "13",
+          "Tore": "036:360",
+          "Diff.": "±0",
+          "Punkte": "51"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "14",
+          "U": "7",
+          "N": "13",
+          "Tore": "045:450",
+          "Diff.": "±0",
+          "Punkte": "49",
+          "Anm.": "EL"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "13",
+          "U": "8",
+          "N": "13",
+          "Tore": "047:520",
+          "Diff.": "−5",
+          "Punkte": "47"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "10",
+          "U": "13",
+          "N": "11",
+          "Tore": "043:460",
+          "Diff.": "−3",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "10",
+          "U": "12",
+          "N": "12",
+          "Tore": "037:400",
+          "Diff.": "−3",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "10",
+          "U": "11",
+          "N": "13",
+          "Tore": "043:460",
+          "Diff.": "−3",
+          "Punkte": "41"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "Hannover 96(N)",
+          "Sp.": "34",
+          "S": "10",
+          "U": "9",
+          "N": "15",
+          "Tore": "044:540",
+          "Diff.": "−10",
+          "Punkte": "39"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "9",
+          "U": "9",
+          "N": "16",
+          "Tore": "038:520",
+          "Diff.": "−14",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "8",
+          "U": "12",
+          "N": "14",
+          "Tore": "032:560",
+          "Diff.": "−24",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "VfL Wolfsburg(R)",
+          "Sp.": "34",
+          "S": "6",
+          "U": "15",
+          "N": "13",
+          "Tore": "036:480",
+          "Diff.": "−12",
+          "Punkte": "33",
+          "Anm.": "(▼)"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "Hamburger SV",
+          "Sp.": "34",
+          "S": "8",
+          "U": "7",
+          "N": "19",
+          "Tore": "029:530",
+          "Diff.": "−24",
+          "Punkte": "31",
+          "Anm.": "▼"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "1. FC Köln",
+          "Sp.": "34",
+          "S": "5",
+          "U": "7",
+          "N": "22",
+          "Tore": "035:700",
+          "Diff.": "−35",
+          "Punkte": "22"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "29"
+        },
+        {
+          "Pl.": "Nils Petersen",
+          "Spieler": "SC Freiburg",
+          "Mannschaft": "15"
+        },
+        {
+          "Pl.": "Niclas Füllkrug",
+          "Spieler": "Hannover 96",
+          "Mannschaft": "14"
+        },
+        {
+          "Pl.": "Mark Uth",
+          "Spieler": "TSG 1899 Hoffenheim"
+        },
+        {
+          "Pl.": "Kevin Volland",
+          "Spieler": "Bayer 04 Leverkusen"
+        },
+        {
+          "Pl.": "Pierre-Emerick Aubameyang1",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "13"
+        },
+        {
+          "Pl.": "Michael Gregoritsch",
+          "Spieler": "FC Augsburg"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim"
+        },
+        {
+          "Pl.": "Timo Werner",
+          "Spieler": "RB Leipzig"
+        },
+        {
+          "Pl.": "Alfreð Finnbogason",
+          "Spieler": "FC Augsburg",
+          "Mannschaft": "12"
+        },
+        {
+          "Pl.": "Salomon Kalou",
+          "Spieler": "Hertha BSC"
+        },
+        {
+          "Pl.": "Sandro Wagner",
+          "Spieler": "FC Bayern München2"
+        },
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "33",
+          "Ges.": "29",
+          "Tore": "04"
+        },
+        {
+          "Pl.": "Mark Uth",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "22",
+          "Ges.": "14",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "Thomas Müller",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "08",
+          "Ges.": "14"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "20",
+          "Ges.": "13",
+          "Tore": "07"
+        },
+        {
+          "Pl.": "Timo Werner",
+          "Spieler": "RB Leipzig"
+        },
+        {
+          "Pl.": "Nils Petersen",
+          "Spieler": "SC Freiburg",
+          "Mannschaft": "19",
+          "Ges.": "15",
+          "Tore": "04"
+        },
+        {
+          "Pl.": "James Rodríguez",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "18",
+          "Ges.": "07",
+          "Tore": "11"
+        },
+        {
+          "Pl.": "Niclas Füllkrug",
+          "Spieler": "Hannover 96",
+          "Mannschaft": "17",
+          "Ges.": "14",
+          "Tore": "03"
+        },
+        {
+          "Pl.": "Kevin Volland",
+          "Spieler": "Bayer 04 Leverkusen"
+        },
+        {
+          "Pl.": "Pierre-Emerick Aubameyang1",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "13",
+          "Ges.": "04"
+        },
+        {
+          "Pl.": "Michael Gregoritsch",
+          "Spieler": "FC Augsburg"
+        }
+      ]
+    },
+    {
+      "season": 2018,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München(M)",
+          "Sp.": "34",
+          "S": "24",
+          "U": "6",
+          "N": "4",
+          "Tore": "088:320",
+          "Diff.": "+56",
+          "Punkte": "78",
+          "Anm.": "M / CL"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "23",
+          "U": "7",
+          "N": "4",
+          "Tore": "081:440",
+          "Diff.": "+37",
+          "Punkte": "76",
+          "Anm.": "CL"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "RB Leipzig",
+          "Sp.": "34",
+          "S": "19",
+          "U": "9",
+          "N": "6",
+          "Tore": "063:290",
+          "Diff.": "+34",
+          "Punkte": "66"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "18",
+          "U": "4",
+          "N": "12",
+          "Tore": "069:520",
+          "Diff.": "+17",
+          "Punkte": "58"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "16",
+          "U": "7",
+          "N": "11",
+          "Tore": "055:420",
+          "Diff.": "+13",
+          "Punkte": "55",
+          "Anm.": "EL"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "VfL Wolfsburg(R)",
+          "Sp.": "34",
+          "S": "16",
+          "U": "7",
+          "N": "11",
+          "Tore": "062:500",
+          "Diff.": "+12",
+          "Punkte": "55"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "Eintracht Frankfurt(P)",
+          "Sp.": "34",
+          "S": "15",
+          "U": "9",
+          "N": "10",
+          "Tore": "060:480",
+          "Diff.": "+12",
+          "Punkte": "54",
+          "Anm.": "(EL)"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "14",
+          "U": "11",
+          "N": "9",
+          "Tore": "058:490",
+          "Diff.": "+9",
+          "Punkte": "53"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "13",
+          "U": "12",
+          "N": "9",
+          "Tore": "070:520",
+          "Diff.": "+18",
+          "Punkte": "51"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Fortuna Düsseldorf(N)",
+          "Sp.": "34",
+          "S": "13",
+          "U": "5",
+          "N": "16",
+          "Tore": "049:650",
+          "Diff.": "−16",
+          "Punkte": "44"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "11",
+          "U": "10",
+          "N": "13",
+          "Tore": "049:570",
+          "Diff.": "−8",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "12",
+          "U": "7",
+          "N": "15",
+          "Tore": "046:570",
+          "Diff.": "−11",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "8",
+          "U": "12",
+          "N": "14",
+          "Tore": "046:610",
+          "Diff.": "−15",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "8",
+          "U": "9",
+          "N": "17",
+          "Tore": "037:550",
+          "Diff.": "−18",
+          "Punkte": "33"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "8",
+          "U": "8",
+          "N": "18",
+          "Tore": "051:710",
+          "Diff.": "−20",
+          "Punkte": "32"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "7",
+          "U": "7",
+          "N": "20",
+          "Tore": "032:700",
+          "Diff.": "−38",
+          "Punkte": "28",
+          "Anm.": "(▼)"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "Hannover 96",
+          "Sp.": "34",
+          "S": "5",
+          "U": "6",
+          "N": "23",
+          "Tore": "031:710",
+          "Diff.": "−40",
+          "Punkte": "21",
+          "Anm.": "▼"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "1. FC Nürnberg(N)",
+          "Sp.": "34",
+          "S": "3",
+          "U": "10",
+          "N": "21",
+          "Tore": "026:680",
+          "Diff.": "−42",
+          "Punkte": "19"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "22"
+        },
+        {
+          "Pl.": "Paco Alcácer",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "18"
+        },
+        {
+          "Pl.": "Kai Havertz",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "17"
+        },
+        {
+          "Pl.": "Luka Jović",
+          "Spieler": "Eintracht Frankfurt"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim"
+        },
+        {
+          "Pl.": "Marco Reus",
+          "Spieler": "Borussia Dortmund"
+        },
+        {
+          "Pl.": "Wout Weghorst",
+          "Spieler": "VfL Wolfsburg"
+        },
+        {
+          "Pl.": "Ishak Belfodil",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "16"
+        },
+        {
+          "Pl.": "Timo Werner",
+          "Spieler": "RB Leipzig"
+        },
+        {
+          "Pl.": "Sébastien Haller",
+          "Spieler": "Eintracht Frankfurt",
+          "Mannschaft": "15"
+        },
+        {
+          "Pl.": "Yussuf Poulsen",
+          "Spieler": "RB Leipzig"
+        },
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "30",
+          "Gesamt": "22",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "Marco Reus",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "29",
+          "Gesamt": "17",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "Jadon Sancho",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "12",
+          "Gesamt": "17"
+        },
+        {
+          "Pl.": "Kevin Volland",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "26",
+          "Gesamt": "14",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "Timo Werner",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "25",
+          "Gesamt": "16",
+          "Tore": "09"
+        },
+        {
+          "Pl.": "Sébastien Haller",
+          "Spieler": "Eintracht Frankfurt",
+          "Mannschaft": "24",
+          "Gesamt": "15",
+          "Tore": "09"
+        },
+        {
+          "Pl.": "Wout Weghorst",
+          "Spieler": "VfL Wolfsburg",
+          "Mannschaft": "23",
+          "Gesamt": "17",
+          "Tore": "06"
+        },
+        {
+          "Pl.": "Luka Jović",
+          "Spieler": "Eintracht Frankfurt",
+          "Mannschaft": "22",
+          "Gesamt": "17",
+          "Tore": "05"
+        },
+        {
+          "Pl.": "Max Kruse",
+          "Spieler": "Werder Bremen",
+          "Mannschaft": "11",
+          "Gesamt": "11"
+        },
+        {
+          "Pl.": "Kai Havertz",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "21",
+          "Gesamt": "17",
+          "Tore": "04"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim"
+        },
+        {
+          "Pl.": "Thorgan Hazard",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "10",
+          "Gesamt": "11"
+        }
+      ]
+    },
+    {
+      "season": 2019,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München(M, P)",
+          "Sp.": "34",
+          "S": "26",
+          "U": "4",
+          "N": "4",
+          "Tore": "100:320",
+          "Diff.": "+68",
+          "Punkte": "82",
+          "Anm.": "M / CL"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "21",
+          "U": "6",
+          "N": "7",
+          "Tore": "084:410",
+          "Diff.": "+43",
+          "Punkte": "69",
+          "Anm.": "CL"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "RB Leipzig",
+          "Sp.": "34",
+          "S": "18",
+          "U": "12",
+          "N": "4",
+          "Tore": "081:370",
+          "Diff.": "+44",
+          "Punkte": "66"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "20",
+          "U": "5",
+          "N": "9",
+          "Tore": "066:400",
+          "Diff.": "+26",
+          "Punkte": "65"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "19",
+          "U": "6",
+          "N": "9",
+          "Tore": "061:440",
+          "Diff.": "+17",
+          "Punkte": "63",
+          "Anm.": "EL"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "15",
+          "U": "7",
+          "N": "12",
+          "Tore": "053:530",
+          "Diff.": "±0",
+          "Punkte": "52"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "13",
+          "U": "10",
+          "N": "11",
+          "Tore": "048:460",
+          "Diff.": "+2",
+          "Punkte": "49",
+          "Anm.": "(EL)"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "13",
+          "U": "9",
+          "N": "12",
+          "Tore": "048:470",
+          "Diff.": "+1",
+          "Punkte": "48"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "13",
+          "U": "6",
+          "N": "15",
+          "Tore": "059:600",
+          "Diff.": "−1",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "11",
+          "U": "8",
+          "N": "15",
+          "Tore": "048:590",
+          "Diff.": "−11",
+          "Punkte": "41"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "1. FC Union Berlin(N)",
+          "Sp.": "34",
+          "S": "12",
+          "U": "5",
+          "N": "17",
+          "Tore": "041:580",
+          "Diff.": "−17",
+          "Punkte": "41"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "9",
+          "U": "12",
+          "N": "13",
+          "Tore": "038:580",
+          "Diff.": "−20",
+          "Punkte": "39"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "11",
+          "U": "4",
+          "N": "19",
+          "Tore": "044:650",
+          "Diff.": "−21",
+          "Punkte": "37"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "1. FC Köln(N)",
+          "Sp.": "34",
+          "S": "10",
+          "U": "6",
+          "N": "18",
+          "Tore": "051:690",
+          "Diff.": "−18",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "9",
+          "U": "9",
+          "N": "16",
+          "Tore": "045:630",
+          "Diff.": "−18",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "8",
+          "U": "7",
+          "N": "19",
+          "Tore": "042:690",
+          "Diff.": "−27",
+          "Punkte": "31",
+          "Anm.": "(▼)"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "Fortuna Düsseldorf",
+          "Sp.": "34",
+          "S": "6",
+          "U": "12",
+          "N": "16",
+          "Tore": "036:670",
+          "Diff.": "−31",
+          "Punkte": "30",
+          "Anm.": "▼"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "SC Paderborn 07(N)",
+          "Sp.": "34",
+          "S": "4",
+          "U": "8",
+          "N": "22",
+          "Tore": "037:740",
+          "Diff.": "−37",
+          "Punkte": "20"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "34"
+        },
+        {
+          "Pl.": "Timo Werner",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "28"
+        },
+        {
+          "Pl.": "Jadon Sancho",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "17"
+        },
+        {
+          "Pl.": "Wout Weghorst",
+          "Spieler": "VfL Wolfsburg",
+          "Mannschaft": "16"
+        },
+        {
+          "Pl.": "Rouwen Hennings",
+          "Spieler": "Fortuna Düsseldorf",
+          "Mannschaft": "15"
+        },
+        {
+          "Pl.": "Jhon Córdoba",
+          "Spieler": "1. FC Köln",
+          "Mannschaft": "13"
+        },
+        {
+          "Pl.": "Erling Haaland",
+          "Spieler": "Borussia Dortmund"
+        },
+        {
+          "Pl.": "Florian Niederlechner",
+          "Spieler": "FC Augsburg"
+        },
+        {
+          "Pl.": "Robin Quaison",
+          "Spieler": "1. FSV Mainz 05"
+        },
+        {
+          "Pl.": "Sebastian Andersson",
+          "Spieler": "1. FC Union Berlin",
+          "Mannschaft": "12"
+        },
+        {
+          "Pl.": "Serge Gnabry",
+          "Spieler": "FC Bayern München"
+        },
+        {
+          "Pl.": "Kai Havertz",
+          "Spieler": "Bayer 04 Leverkusen"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim"
+        },
+        {
+          "Pl.": "André Silva",
+          "Spieler": "Eintracht Frankfurt"
+        },
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "40",
+          "Gesamt": "34",
+          "Tore": "06"
+        },
+        {
+          "Pl.": "Timo Werner",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "36",
+          "Gesamt": "28",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "Jadon Sancho",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "33",
+          "Gesamt": "17",
+          "Tore": "16"
+        },
+        {
+          "Pl.": "Thomas Müller",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "29",
+          "Gesamt": "08",
+          "Tore": "21"
+        },
+        {
+          "Pl.": "Florian Niederlechner",
+          "Spieler": "FC Augsburg",
+          "Mannschaft": "21",
+          "Gesamt": "13",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "Serge Gnabry",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "12",
+          "Gesamt": "09"
+        },
+        {
+          "Pl.": "Wout Weghorst",
+          "Spieler": "VfL Wolfsburg",
+          "Mannschaft": "20",
+          "Gesamt": "16",
+          "Tore": "04"
+        },
+        {
+          "Pl.": "Alassane Pléa",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "10",
+          "Gesamt": "10"
+        },
+        {
+          "Pl.": "Thorgan Hazard",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "07",
+          "Gesamt": "13"
+        },
+        {
+          "Pl.": "Christopher Nkunku",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "19",
+          "Gesamt": "05",
+          "Tore": "14"
+        }
+      ]
+    },
+    {
+      "season": 2020,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München(M, P)",
+          "Sp.": "34",
+          "S": "24",
+          "U": "6",
+          "N": "4",
+          "Tore": "099:440",
+          "Diff.": "+55",
+          "Punkte": "78",
+          "Anm.": "M / CL"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "RB Leipzig",
+          "Sp.": "34",
+          "S": "19",
+          "U": "8",
+          "N": "7",
+          "Tore": "060:320",
+          "Diff.": "+28",
+          "Punkte": "65",
+          "Anm.": "CL"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "20",
+          "U": "4",
+          "N": "10",
+          "Tore": "075:460",
+          "Diff.": "+29",
+          "Punkte": "64"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "17",
+          "U": "10",
+          "N": "7",
+          "Tore": "061:370",
+          "Diff.": "+24",
+          "Punkte": "61"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "16",
+          "U": "12",
+          "N": "6",
+          "Tore": "069:530",
+          "Diff.": "+16",
+          "Punkte": "60",
+          "Anm.": "EL"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "14",
+          "U": "10",
+          "N": "10",
+          "Tore": "053:390",
+          "Diff.": "+14",
+          "Punkte": "52"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "1. FC Union Berlin",
+          "Sp.": "34",
+          "S": "12",
+          "U": "14",
+          "N": "8",
+          "Tore": "050:430",
+          "Diff.": "+7",
+          "Punkte": "50",
+          "Anm.": "(ECL)"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "13",
+          "U": "10",
+          "N": "11",
+          "Tore": "064:560",
+          "Diff.": "+8",
+          "Punkte": "49"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "VfB Stuttgart(N)",
+          "Sp.": "34",
+          "S": "12",
+          "U": "9",
+          "N": "13",
+          "Tore": "056:550",
+          "Diff.": "+1",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "12",
+          "U": "9",
+          "N": "13",
+          "Tore": "052:520",
+          "Diff.": "±0",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "11",
+          "U": "10",
+          "N": "13",
+          "Tore": "052:540",
+          "Diff.": "−2",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "10",
+          "U": "9",
+          "N": "15",
+          "Tore": "039:560",
+          "Diff.": "−17",
+          "Punkte": "39"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "10",
+          "U": "6",
+          "N": "18",
+          "Tore": "036:540",
+          "Diff.": "−18",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "8",
+          "U": "11",
+          "N": "15",
+          "Tore": "041:520",
+          "Diff.": "−11",
+          "Punkte": "35"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "Arminia Bielefeld(N)",
+          "Sp.": "34",
+          "S": "9",
+          "U": "8",
+          "N": "17",
+          "Tore": "026:520",
+          "Diff.": "−26",
+          "Punkte": "35"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "1. FC Köln",
+          "Sp.": "34",
+          "S": "8",
+          "U": "9",
+          "N": "17",
+          "Tore": "034:600",
+          "Diff.": "−26",
+          "Punkte": "33",
+          "Anm.": "(▼)"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "Werder Bremen(R)",
+          "Sp.": "34",
+          "S": "7",
+          "U": "10",
+          "N": "17",
+          "Tore": "036:570",
+          "Diff.": "−21",
+          "Punkte": "31",
+          "Anm.": "▼"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "FC Schalke 04",
+          "Sp.": "34",
+          "S": "3",
+          "U": "7",
+          "N": "24",
+          "Tore": "025:860",
+          "Diff.": "−61",
+          "Punkte": "16"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "41"
+        },
+        {
+          "Pl.": "André Silva",
+          "Spieler": "Eintracht Frankfurt",
+          "Mannschaft": "28"
+        },
+        {
+          "Pl.": "Erling Haaland",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "27"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "20"
+        },
+        {
+          "Pl.": "Wout Weghorst",
+          "Spieler": "VfL Wolfsburg"
+        },
+        {
+          "Pl.": "Saša Kalajdžić",
+          "Spieler": "VfB Stuttgart",
+          "Mannschaft": "16"
+        },
+        {
+          "Pl.": "Lars Stindl",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "14"
+        },
+        {
+          "Pl.": "Lucas Alario",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "11"
+        },
+        {
+          "Pl.": "Max Kruse",
+          "Spieler": "1. FC Union Berlin"
+        },
+        {
+          "Pl.": "Thomas Müller",
+          "Spieler": "FC Bayern München"
+        },
+        {
+          "Pl.": "Silas",
+          "Spieler": "VfB Stuttgart"
+        },
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "51",
+          "Gesamt": "41",
+          "Tore": "10"
+        },
+        {
+          "Pl.": "André Silva",
+          "Spieler": "Eintracht Frankfurt",
+          "Mannschaft": "36",
+          "Gesamt": "28",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "Erling Haaland",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "33",
+          "Gesamt": "27",
+          "Tore": "06"
+        },
+        {
+          "Pl.": "Thomas Müller",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "31",
+          "Gesamt": "11",
+          "Tore": "20"
+        },
+        {
+          "Pl.": "Wout Weghorst",
+          "Spieler": "VfL Wolfsburg",
+          "Mannschaft": "28",
+          "Gesamt": "20",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "25",
+          "Gesamt": "20",
+          "Tore": "05"
+        },
+        {
+          "Pl.": "Lars Stindl",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "23",
+          "Gesamt": "14",
+          "Tore": "09"
+        },
+        {
+          "Pl.": "Saša Kalajdžić",
+          "Spieler": "VfB Stuttgart",
+          "Mannschaft": "22",
+          "Gesamt": "16",
+          "Tore": "06"
+        },
+        {
+          "Pl.": "Jadon Sancho",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "20",
+          "Gesamt": "08",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "Vincenzo Grifo",
+          "Spieler": "SC Freiburg",
+          "Mannschaft": "19",
+          "Gesamt": "09",
+          "Tore": "10"
+        },
+        {
+          "Pl.": "Filip Kostić",
+          "Spieler": "Eintracht Frankfurt",
+          "Mannschaft": "04",
+          "Gesamt": "15"
+        }
+      ]
+    },
+    {
+      "season": 2021,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München(M)",
+          "Sp.": "34",
+          "S": "24",
+          "U": "5",
+          "N": "5",
+          "Tore": "097:370",
+          "Diff.": "+60",
+          "Punkte": "77",
+          "Anm.": "M / CL"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "Borussia Dortmund(P)",
+          "Sp.": "34",
+          "S": "22",
+          "U": "3",
+          "N": "9",
+          "Tore": "085:520",
+          "Diff.": "+33",
+          "Punkte": "69",
+          "Anm.": "CL"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "19",
+          "U": "7",
+          "N": "8",
+          "Tore": "080:470",
+          "Diff.": "+33",
+          "Punkte": "64"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "RB Leipzig",
+          "Sp.": "34",
+          "S": "17",
+          "U": "7",
+          "N": "10",
+          "Tore": "072:370",
+          "Diff.": "+35",
+          "Punkte": "58"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "1. FC Union Berlin",
+          "Sp.": "34",
+          "S": "16",
+          "U": "9",
+          "N": "9",
+          "Tore": "050:440",
+          "Diff.": "+6",
+          "Punkte": "57",
+          "Anm.": "EL"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "15",
+          "U": "10",
+          "N": "9",
+          "Tore": "058:460",
+          "Diff.": "+12",
+          "Punkte": "55"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "1. FC Köln(R)",
+          "Sp.": "34",
+          "S": "14",
+          "U": "10",
+          "N": "10",
+          "Tore": "052:490",
+          "Diff.": "+3",
+          "Punkte": "52",
+          "Anm.": "(ECL)"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "13",
+          "U": "7",
+          "N": "14",
+          "Tore": "050:450",
+          "Diff.": "+5",
+          "Punkte": "46",
+          "Anm.": ""
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "13",
+          "U": "7",
+          "N": "14",
+          "Tore": "058:600",
+          "Diff.": "−2",
+          "Punkte": "46"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "12",
+          "U": "9",
+          "N": "13",
+          "Tore": "054:610",
+          "Diff.": "−7",
+          "Punkte": "45"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "10",
+          "U": "12",
+          "N": "12",
+          "Tore": "045:490",
+          "Diff.": "−4",
+          "Punkte": "42",
+          "Anm.": "CL"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "12",
+          "U": "6",
+          "N": "16",
+          "Tore": "043:540",
+          "Diff.": "−11",
+          "Punkte": "42",
+          "Anm.": ""
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "VfL Bochum(N)",
+          "Sp.": "34",
+          "S": "12",
+          "U": "6",
+          "N": "16",
+          "Tore": "038:520",
+          "Diff.": "−14",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "10",
+          "U": "8",
+          "N": "16",
+          "Tore": "039:560",
+          "Diff.": "−17",
+          "Punkte": "38"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "7",
+          "U": "12",
+          "N": "15",
+          "Tore": "041:590",
+          "Diff.": "−18",
+          "Punkte": "33"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "Hertha BSC",
+          "Sp.": "34",
+          "S": "9",
+          "U": "6",
+          "N": "19",
+          "Tore": "037:710",
+          "Diff.": "−34",
+          "Punkte": "33",
+          "Anm.": "(▼)"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "Arminia Bielefeld",
+          "Sp.": "34",
+          "S": "5",
+          "U": "13",
+          "N": "16",
+          "Tore": "027:530",
+          "Diff.": "−26",
+          "Punkte": "28",
+          "Anm.": "▼"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "SpVgg Greuther Fürth(N)",
+          "Sp.": "34",
+          "S": "3",
+          "U": "9",
+          "N": "22",
+          "Tore": "028:820",
+          "Diff.": "−54",
+          "Punkte": "18"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "35"
+        },
+        {
+          "Pl.": "Patrik Schick",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "24"
+        },
+        {
+          "Pl.": "Erling Haaland",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "22"
+        },
+        {
+          "Pl.": "Anthony Modeste",
+          "Spieler": "1. FC Köln",
+          "Mannschaft": "20"
+        },
+        {
+          "Pl.": "Christopher Nkunku",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "20"
+        },
+        {
+          "Pl.": "Taiwo Awoniyi",
+          "Spieler": "1. FC Union Berlin",
+          "Mannschaft": "15"
+        },
+        {
+          "Pl.": "Serge Gnabry",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "14"
+        },
+        {
+          "Pl.": "Moussa Diaby",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "13"
+        },
+        {
+          "Pl.": "Jonas Hofmann",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "12"
+        },
+        {
+          "Pl.": "Max Kruse",
+          "Spieler": "VfL Wolfsburg"
+        },
+        {
+          "Pl.": "Robert Lewandowski",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "39",
+          "Gesamt": "35",
+          "Tore": "04"
+        },
+        {
+          "Pl.": "Christopher Nkunku",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "36",
+          "Gesamt": "20",
+          "Tore": "16"
+        },
+        {
+          "Pl.": "Erling Haaland",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "30",
+          "Gesamt": "22",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "Patrik Schick",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "28",
+          "Gesamt": "24",
+          "Tore": "04"
+        },
+        {
+          "Pl.": "Thomas Müller",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "26",
+          "Gesamt": "08",
+          "Tore": "18"
+        },
+        {
+          "Pl.": "Moussa Diaby",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "25",
+          "Gesamt": "13",
+          "Tore": "12"
+        },
+        {
+          "Pl.": "Marco Reus",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "09",
+          "Gesamt": "16"
+        },
+        {
+          "Pl.": "Anthony Modeste",
+          "Spieler": "1. FC Köln",
+          "Mannschaft": "24",
+          "Gesamt": "20",
+          "Tore": "04"
+        },
+        {
+          "Pl.": "Serge Gnabry",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "19",
+          "Gesamt": "14",
+          "Tore": "05"
+        },
+        {
+          "Pl.": "Max Kruse",
+          "Spieler": "VfL Wolfsburg",
+          "Mannschaft": "12",
+          "Gesamt": "07"
+        }
+      ]
+    },
+    {
+      "season": 2022,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "FC Bayern München(M)",
+          "Sp.": "34",
+          "S": "21",
+          "U": "8",
+          "N": "5",
+          "Tore": "092:380",
+          "Diff.": "+54",
+          "Punkte": "71",
+          "Anm.": "M/CL"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "22",
+          "U": "5",
+          "N": "7",
+          "Tore": "083:440",
+          "Diff.": "+39",
+          "Punkte": "71",
+          "Anm.": "CL"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "RB Leipzig(P)",
+          "Sp.": "34",
+          "S": "20",
+          "U": "6",
+          "N": "8",
+          "Tore": "064:410",
+          "Diff.": "+23",
+          "Punkte": "66"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "1. FC Union Berlin",
+          "Sp.": "34",
+          "S": "18",
+          "U": "8",
+          "N": "8",
+          "Tore": "051:380",
+          "Diff.": "+13",
+          "Punkte": "62"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "17",
+          "U": "8",
+          "N": "9",
+          "Tore": "051:440",
+          "Diff.": "+7",
+          "Punkte": "59",
+          "Anm.": "EL"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "14",
+          "U": "8",
+          "N": "12",
+          "Tore": "057:490",
+          "Diff.": "+8",
+          "Punkte": "50"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "13",
+          "U": "11",
+          "N": "10",
+          "Tore": "058:520",
+          "Diff.": "+6",
+          "Punkte": "50",
+          "Anm.": "(ECL)"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "13",
+          "U": "10",
+          "N": "11",
+          "Tore": "057:480",
+          "Diff.": "+9",
+          "Punkte": "49",
+          "Anm.": ""
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "12",
+          "U": "10",
+          "N": "12",
+          "Tore": "054:550",
+          "Diff.": "−1",
+          "Punkte": "46"
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "11",
+          "U": "10",
+          "N": "13",
+          "Tore": "052:550",
+          "Diff.": "−3",
+          "Punkte": "43"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "1. FC Köln",
+          "Sp.": "34",
+          "S": "10",
+          "U": "12",
+          "N": "12",
+          "Tore": "049:540",
+          "Diff.": "−5",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "10",
+          "U": "6",
+          "N": "18",
+          "Tore": "048:570",
+          "Diff.": "−9",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "Werder Bremen(N)",
+          "Sp.": "34",
+          "S": "10",
+          "U": "6",
+          "N": "18",
+          "Tore": "051:640",
+          "Diff.": "−13",
+          "Punkte": "36"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "VfL Bochum",
+          "Sp.": "34",
+          "S": "10",
+          "U": "5",
+          "N": "19",
+          "Tore": "040:720",
+          "Diff.": "−32",
+          "Punkte": "35"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "9",
+          "U": "7",
+          "N": "18",
+          "Tore": "042:630",
+          "Diff.": "−21",
+          "Punkte": "34"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "VfB Stuttgart",
+          "Sp.": "34",
+          "S": "7",
+          "U": "12",
+          "N": "15",
+          "Tore": "045:570",
+          "Diff.": "−12",
+          "Punkte": "33",
+          "Anm.": "(▼)"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "FC Schalke 04(N)",
+          "Sp.": "34",
+          "S": "7",
+          "U": "10",
+          "N": "17",
+          "Tore": "035:710",
+          "Diff.": "−36",
+          "Punkte": "31",
+          "Anm.": "▼"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "Hertha BSC(R)",
+          "Sp.": "34",
+          "S": "7",
+          "U": "8",
+          "N": "19",
+          "Tore": "042:690",
+          "Diff.": "−27",
+          "Punkte": "29"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "Niclas Füllkrug",
+          "Spieler": "Werder Bremen",
+          "Mannschaft": "160"
+        },
+        {
+          "Pl.": "Christopher Nkunku",
+          "Spieler": "RB Leipzig"
+        },
+        {
+          "Pl.": "Vincenzo Grifo",
+          "Spieler": "SC Freiburg",
+          "Mannschaft": "150"
+        },
+        {
+          "Pl.": "Randal Kolo Muani",
+          "Spieler": "Eintracht Frankfurt"
+        },
+        {
+          "Pl.": "Serge Gnabry",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "140"
+        },
+        {
+          "Pl.": "Marcus Thuram",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "130"
+        },
+        {
+          "Pl.": "Marvin Ducksch",
+          "Spieler": "Werder Bremen",
+          "Mannschaft": "120"
+        },
+        {
+          "Pl.": "Jonas Hofmann",
+          "Spieler": "Borussia Mönchengladbach"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim"
+        },
+        {
+          "Pl.": "Jamal Musiala",
+          "Spieler": "FC Bayern München"
+        },
+        {
+          "Pl.": "Randal Kolo Muani",
+          "Spieler": "Eintracht Frankfurt",
+          "Mannschaft": "26",
+          "Gesamt": "15",
+          "Tore": "110"
+        },
+        {
+          "Pl.": "Jamal Musiala",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "22",
+          "Gesamt": "12",
+          "Tore": "100"
+        },
+        {
+          "Pl.": "Niclas Füllkrug",
+          "Spieler": "Werder Bremen",
+          "Mannschaft": "21",
+          "Gesamt": "16",
+          "Tore": "5"
+        },
+        {
+          "Pl.": "Jonas Hofmann",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "12",
+          "Gesamt": "9"
+        },
+        {
+          "Pl.": "Christopher Nkunku",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "20",
+          "Gesamt": "16",
+          "Tore": "4"
+        },
+        {
+          "Pl.": "Vincenzo Grifo",
+          "Spieler": "SC Freiburg",
+          "Mannschaft": "15",
+          "Gesamt": "5"
+        },
+        {
+          "Pl.": "Serge Gnabry",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "19",
+          "Gesamt": "14",
+          "Tore": "5"
+        },
+        {
+          "Pl.": "Marcus Thuram",
+          "Spieler": "Borussia Mönchengladbach",
+          "Mannschaft": "13",
+          "Gesamt": "6"
+        },
+        {
+          "Pl.": "Marvin Ducksch",
+          "Spieler": "Werder Bremen",
+          "Mannschaft": "18",
+          "Gesamt": "12",
+          "Tore": "6"
+        },
+        {
+          "Pl.": "Sheraldo Becker",
+          "Spieler": "1. FC Union Berlin",
+          "Mannschaft": "11",
+          "Gesamt": "7"
+        }
+      ]
+    },
+    {
+      "season": 2023,
+      "standings": [
+        {
+          "Pl.": "1.",
+          "Verein": "Bayer 04 Leverkusen",
+          "Sp.": "34",
+          "S": "28",
+          "U": "6",
+          "N": "0",
+          "Tore": "089:240",
+          "Diff.": "+65",
+          "Punkte": "90",
+          "Anm.": "M/CL"
+        },
+        {
+          "Pl.": "2.",
+          "Verein": "VfB Stuttgart(R)",
+          "Sp.": "34",
+          "S": "23",
+          "U": "4",
+          "N": "7",
+          "Tore": "078:390",
+          "Diff.": "+39",
+          "Punkte": "73",
+          "Anm.": "CL"
+        },
+        {
+          "Pl.": "3.",
+          "Verein": "FC Bayern München(M)",
+          "Sp.": "34",
+          "S": "23",
+          "U": "3",
+          "N": "8",
+          "Tore": "094:450",
+          "Diff.": "+49",
+          "Punkte": "72"
+        },
+        {
+          "Pl.": "4.",
+          "Verein": "RB Leipzig(P)",
+          "Sp.": "34",
+          "S": "19",
+          "U": "8",
+          "N": "7",
+          "Tore": "077:390",
+          "Diff.": "+38",
+          "Punkte": "65"
+        },
+        {
+          "Pl.": "5.",
+          "Verein": "Borussia Dortmund",
+          "Sp.": "34",
+          "S": "18",
+          "U": "9",
+          "N": "7",
+          "Tore": "068:430",
+          "Diff.": "+25",
+          "Punkte": "63"
+        },
+        {
+          "Pl.": "6.",
+          "Verein": "Eintracht Frankfurt",
+          "Sp.": "34",
+          "S": "11",
+          "U": "14",
+          "N": "9",
+          "Tore": "051:500",
+          "Diff.": "+1",
+          "Punkte": "47",
+          "Anm.": "EL"
+        },
+        {
+          "Pl.": "7.",
+          "Verein": "TSG 1899 Hoffenheim",
+          "Sp.": "34",
+          "S": "13",
+          "U": "7",
+          "N": "14",
+          "Tore": "066:660",
+          "Diff.": "±0",
+          "Punkte": "46"
+        },
+        {
+          "Pl.": "8.",
+          "Verein": "1. FC Heidenheim(N)",
+          "Sp.": "34",
+          "S": "10",
+          "U": "12",
+          "N": "12",
+          "Tore": "050:550",
+          "Diff.": "−5",
+          "Punkte": "42",
+          "Anm.": "(ECL)"
+        },
+        {
+          "Pl.": "9.",
+          "Verein": "Werder Bremen",
+          "Sp.": "34",
+          "S": "11",
+          "U": "9",
+          "N": "14",
+          "Tore": "048:540",
+          "Diff.": "−6",
+          "Punkte": "42",
+          "Anm.": ""
+        },
+        {
+          "Pl.": "10.",
+          "Verein": "SC Freiburg",
+          "Sp.": "34",
+          "S": "11",
+          "U": "9",
+          "N": "14",
+          "Tore": "045:580",
+          "Diff.": "−13",
+          "Punkte": "42"
+        },
+        {
+          "Pl.": "11.",
+          "Verein": "FC Augsburg",
+          "Sp.": "34",
+          "S": "10",
+          "U": "9",
+          "N": "15",
+          "Tore": "050:600",
+          "Diff.": "−10",
+          "Punkte": "39"
+        },
+        {
+          "Pl.": "12.",
+          "Verein": "VfL Wolfsburg",
+          "Sp.": "34",
+          "S": "10",
+          "U": "7",
+          "N": "17",
+          "Tore": "041:560",
+          "Diff.": "−15",
+          "Punkte": "37"
+        },
+        {
+          "Pl.": "13.",
+          "Verein": "1. FSV Mainz 05",
+          "Sp.": "34",
+          "S": "7",
+          "U": "14",
+          "N": "13",
+          "Tore": "039:510",
+          "Diff.": "−12",
+          "Punkte": "35"
+        },
+        {
+          "Pl.": "14.",
+          "Verein": "Borussia Mönchengladbach",
+          "Sp.": "34",
+          "S": "7",
+          "U": "13",
+          "N": "14",
+          "Tore": "056:670",
+          "Diff.": "−11",
+          "Punkte": "34"
+        },
+        {
+          "Pl.": "15.",
+          "Verein": "1. FC Union Berlin",
+          "Sp.": "34",
+          "S": "9",
+          "U": "6",
+          "N": "19",
+          "Tore": "033:580",
+          "Diff.": "−25",
+          "Punkte": "33"
+        },
+        {
+          "Pl.": "16.",
+          "Verein": "VfL Bochum",
+          "Sp.": "34",
+          "S": "7",
+          "U": "12",
+          "N": "15",
+          "Tore": "042:740",
+          "Diff.": "−32",
+          "Punkte": "33",
+          "Anm.": "(▼)"
+        },
+        {
+          "Pl.": "17.",
+          "Verein": "1. FC Köln",
+          "Sp.": "34",
+          "S": "5",
+          "U": "12",
+          "N": "17",
+          "Tore": "028:600",
+          "Diff.": "−32",
+          "Punkte": "27",
+          "Anm.": "▼"
+        },
+        {
+          "Pl.": "18.",
+          "Verein": "SV Darmstadt 98(N)",
+          "Sp.": "34",
+          "S": "3",
+          "U": "8",
+          "N": "23",
+          "Tore": "030:860",
+          "Diff.": "−56",
+          "Punkte": "17"
+        }
+      ],
+      "topscorers": [
+        {
+          "Pl.": "Harry Kane",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "36"
+        },
+        {
+          "Pl.": "Serhou Guirassy",
+          "Spieler": "VfB Stuttgart",
+          "Mannschaft": "28"
+        },
+        {
+          "Pl.": "Loïs Openda",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "24"
+        },
+        {
+          "Pl.": "Deniz Undav",
+          "Spieler": "VfB Stuttgart",
+          "Mannschaft": "18"
+        },
+        {
+          "Pl.": "Maximilian Beier",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "16"
+        },
+        {
+          "Pl.": "Ermedin Demirović",
+          "Spieler": "FC Augsburg",
+          "Mannschaft": "15"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim"
+        },
+        {
+          "Pl.": "Victor Boniface",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "14"
+        },
+        {
+          "Pl.": "Benjamin Šeško",
+          "Spieler": "RB Leipzig"
+        },
+        {
+          "Pl.": "Donyell Malen",
+          "Spieler": "Borussia Dortmund",
+          "Mannschaft": "13"
+        },
+        {
+          "Pl.": "Harry Kane",
+          "Spieler": "FC Bayern München",
+          "Mannschaft": "44",
+          "Gesamt": "36",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "Loïs Openda",
+          "Spieler": "RB Leipzig",
+          "Mannschaft": "32",
+          "Gesamt": "24",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "Serhou Guirassy",
+          "Spieler": "VfB Stuttgart",
+          "Mannschaft": "31",
+          "Gesamt": "28",
+          "Tore": "03"
+        },
+        {
+          "Pl.": "Deniz Undav",
+          "Spieler": "VfB Stuttgart",
+          "Mannschaft": "28",
+          "Gesamt": "18",
+          "Tore": "10"
+        },
+        {
+          "Pl.": "Ermedin Demirović",
+          "Spieler": "FC Augsburg",
+          "Mannschaft": "25",
+          "Gesamt": "15",
+          "Tore": "10"
+        },
+        {
+          "Pl.": "Alejandro Grimaldo",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "24",
+          "Gesamt": "10",
+          "Tore": "14"
+        },
+        {
+          "Pl.": "Victor Boniface",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "22",
+          "Gesamt": "14",
+          "Tore": "08"
+        },
+        {
+          "Pl.": "Florian Wirtz",
+          "Spieler": "Bayer 04 Leverkusen",
+          "Mannschaft": "11",
+          "Gesamt": "11"
+        },
+        {
+          "Pl.": "Andrej Kramarić",
+          "Spieler": "TSG 1899 Hoffenheim",
+          "Mannschaft": "21",
+          "Gesamt": "15",
+          "Tore": "06"
+        },
+        {
+          "Pl.": "Marvin Ducksch",
+          "Spieler": "Werder Bremen",
+          "Mannschaft": "12",
+          "Gesamt": "09"
+        },
+        {
+          "Pl.": "Niklas Beste",
+          "Spieler": "1. FC Heidenheim",
+          "Mannschaft": "08",
+          "Gesamt": "13"
+        }
+      ]
+    }
+  ]
+}
