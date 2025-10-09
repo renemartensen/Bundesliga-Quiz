@@ -104,42 +104,99 @@ class Standings_Scraper:
 
         return standings
 
+
 class GoalscorerScraper:
     def is_topscorer_table(self, table):
         headers = [th.get_text(strip=True) for th in table.find_all("th")]
         return any("Spieler" in h or "Name" in h for h in headers) \
             and any("Tore" in h for h in headers)
 
-    def parse_topscorers(self, tables):
+    def parse_topscorers(self, table):
         topscorers = []
-        for table in tables:
-            if self.is_topscorer_table(table):
-                rows = table.find_all("tr")
-                headers = [th.get_text(strip=True) for th in rows[0].find_all("th")]
-                for row in rows[1:]:
-                    cols = []
-                    for td in row.find_all("td"):
-                        a = td.find('a')
-                        if a and a.get_text(strip=True):
-                            cols.append(a.get_text(strip=True))
-                        else:
-                            # remove hidden spans like <span style="display:none"> before getting visible text
-                            for sp in td.find_all('span', attrs={'style': True}):
-                                if 'display:none' in sp.get('style'):
-                                    sp.extract()
-                            cols.append(td.get_text(strip=True))
+        rows = table.find_all("tr")
+        headers = ["Pl.", "Nat.", "Spieler", "Verein", "Tore"]
 
-                    if not cols:
-                        continue
-                    entry = {}
-                    for i, col in enumerate(cols):
-                        if i < len(headers):
-                            if "Spieler" in headers[i] or "Name" in headers[i]:
+        rowspan_cache = {"Pl.": None, "Tore": None}
+        row_span_index = 0
+        row_span_start = 0
+        last_pl = None
 
-                                entry[headers[i]] = col
-                            else:
-                                entry[headers[i]] = col
-                    topscorers.append(entry)
+        print("Topscorer Table Headers:", headers)
+        for row in rows[1:]:
+            cols = []
+            tds = row.find_all("td")
+            ths = row.find_all("th")
+            elements_in_row = ths + tds
+
+            # Skip rows that do not contain data (in the end the table might have a note row)
+            if len(elements_in_row) == 1:
+                continue
+
+            for i, td in enumerate(elements_in_row):
+
+                # For the Tore column, remove any span (which might contain a hidden 0)
+                if len(elements_in_row)-1 == i:
+                    td.find('span').decompose() if td.find('span') else None
+
+                # Handle row spans
+                row_span = int(td.get("rowspan")) if td.get("rowspan") is not None else 0
+                if row_span > 1:
+                    row_span_index = row_span
+                    row_span_start = row_span
+                    if headers[i] == "Pl.":
+                        rowspan_cache[headers[i]] = td.get_text(strip=True).lstrip("0")
+                    else: 
+                        rowspan_cache["Tore"] = td.get_text(strip=True).lstrip("0")
+
+                # handle nationality and player name in one cell
+                nationality = None
+                value = None
+                span = td.find('span')
+
+                # Extract nationality from span
+                if span and span.get_text(strip=True) != "0" and not span.get_text(strip=True).isdigit():
+                    nationality = span.get_text(strip=True)
+
+                aes = td.find_all('a')
+                print("Aes:", [a.get_text(strip=True) for a in aes])
+                print("TD:", td.get_text(strip=True))
+
+                if len(aes) == 0:
+                    value = td.get_text(strip=True)
+                elif len(aes) == 1:
+                    value = aes[0].get_text(strip=True)
+                elif len(aes) == 2:
+                    value = aes[1].get_text(strip=True)
+                else: 
+                    value = td.get_text(strip=True)
+
+                if nationality:
+                    cols.append(nationality)
+                if value:
+                    last_pl = value if headers[i] == "Pl." else last_pl
+                    cols.append(value.lstrip("0"))
+                
+                # If the table format is such that "Pl." is missing in some rows, fill it with the last known value
+                if headers[i] == "Pl." and not value:
+                    cols.append(last_pl.lstrip("0"))
+
+            # Handle row spans
+            if row_span_index >= 1 and row_span_index < row_span_start:
+                cols = [rowspan_cache["Pl."]] + cols
+                cols.append(rowspan_cache["Tore"])
+            row_span_index -= 1
+
+            #print(cols)
+            if not cols:
+                continue
+
+            entry = {}
+            print("Cols:", cols)
+            print("Headers:", headers)
+            for i, col in enumerate(cols):
+                if i < len(headers):
+                    entry[headers[i]] = col
+            topscorers.append(entry)
         return topscorers
 
     def scrape(self, season):
@@ -156,10 +213,8 @@ class GoalscorerScraper:
 
         tables = soup.find_all("table", {"class": "wikitable"})
 
-        print("Found tables:", len(tables))
-        topscorers = []
-        if tables:
-            topscorers = self.parse_topscorers(tables)
+        topscorer_table = [t for t in tables if self.is_topscorer_table(t)][0]
+        topscorers = self.parse_topscorers(topscorer_table)
 
         return topscorers
 
@@ -168,5 +223,5 @@ class GoalscorerScraper:
 if __name__ == "__main__":
     table_scraper = Standings_Scraper()
     goalscorer_scraper = GoalscorerScraper()
-    scraper = BundesligaScraper(table_scraper, goalscorer_scraper, start_year=2005, end_year=2023)
+    scraper = BundesligaScraper(table_scraper, goalscorer_scraper, start_year=2005, end_year=2024)
     scraper.scrape()
