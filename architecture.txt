@@ -1,0 +1,17 @@
+Database: MySQL (scalable for multiuser)
+Backend: Node.js (Express) -> build the api for the Database and app logic
+Frontend: React -> quires my API for quiz questions, leaderboards extract
+
+
+
+Python scraper → collects Bundesliga data and writes it into your database.
+
+Node.js backend (Express) → acts as the “API layer” between your database and your frontend, and is responsible for game logic etc
+
+Example: GET /api/seasons/2005/2006 returns all matches from that season.
+
+Example: POST /api/scores saves a player’s quiz result.
+
+React frontend → fetches data only through your Node.js API.
+
+Never talks directly to the database.

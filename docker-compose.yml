@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  scraper:
+    build: ./scraper
+    container_name: bundesliga_scraper
+    volumes:
+      - ./scraper:/app
+    command: ["python", "scraping.py"]
+
