@@ -1,10 +1,29 @@
 version: "3.9"
 
 services:
+
+  backend:
+    build: ./backend
+    container_name: bundesliga_backend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./backend:/usr/src/app:delegated
+      - backend_node_modules:/usr/src/app/node_modules
+    environment:
+      - NODE_ENV=development
+    command: ["npm", "start"]
+    restart: unless-stopped
+    depends_on:
+      - scraper
+
   scraper:
     build: ./scraper
     container_name: bundesliga_scraper
     volumes:
       - ./scraper:/app
     command: ["python", "scraping.py"]
+    restart: "no"
 
+volumes:
+  backend_node_modules:
